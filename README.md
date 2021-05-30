@@ -5,9 +5,9 @@
 
 ## Development
 
-    ```console
-    npm run develop
-    ```
+```console
+npm run develop
+```
 
  Runs at http://localhost:8000
 
