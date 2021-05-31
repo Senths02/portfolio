@@ -1,17 +1,17 @@
-<h1 align="center">
-  Sumi's Illustration & Design Portfolio
-</h1>
 
-# Development
+🐙🐙🐙
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+# Sumi's Illustration & Design Portfolio
+
+## Development
+
+```console
+npm run develop
+```
 
  Runs at http://localhost:8000
 
 
-# Production
+## Production
 
 CI with Netlify
