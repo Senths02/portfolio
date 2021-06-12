@@ -38,7 +38,7 @@
       {
         "title": "Interference Patterns",
         "category": "else",
-        "subcategory": "Data Art",
+        "subcategory": "Data Sketch",
         "cover": "interference_patterns",
         "description": " ",
         "credits": [],
@@ -67,6 +67,15 @@
         "category": "illustration",
         "subcategory": "Digital Study",
         "cover": "poppies_painting",
+        "description": " ",
+        "credits": [],
+        "process": []
+      },
+      {
+        "title": "Rule 30",
+        "category": "else",
+        "subcategory": "Generative Sketch",
+        "cover": "rule30",
         "description": " ",
         "credits": [],
         "process": []
