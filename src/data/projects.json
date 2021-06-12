@@ -1,9 +1,90 @@
 [
     {
-        "title": "poppies",
+        "title": "A Line",
+        "category": "else",
+        "subcategory": "Generative Sketch",
+        "cover": "a_line",
+        "description": " ",
+        "credits": [],
+        "process": []
+      },
+    {
+        "title": "Atom to Orbit",
+        "category": "design",
+        "subcategory": "3D Visual Development",
+        "cover": "atom",
+        "description": " ",
+        "credits": [],
+        "process": []
+      },
+      {
+        "title": "Contained",
         "category": "illustration",
-        "subcategory": "digital painting",
+        "subcategory": "Digital Painting",
+        "cover": "surreal_floral_head",
+        "description": " ",
+        "credits": [],
+        "process": []
+      },
+      {
+        "title": "Dead Things",
+        "category": "illustration",
+        "subcategory": "Digital Painting",
+        "cover": "autumn_pumpkin",
+        "description": " ",
+        "credits": [],
+        "process": []
+      },
+      {
+        "title": "Interference Patterns",
+        "category": "else",
+        "subcategory": "Data Art",
+        "cover": "interference_patterns",
+        "description": " ",
+        "credits": [],
+        "process": []
+      },
+      {
+        "title": "NHS Tracker",
+        "category": "design",
+        "subcategory": "Postcode Search",
+        "cover": "nhs_tracker",
+        "description": "With BBC News Visual & Data Journalism Unit",
+        "credits": [],
+        "process": []
+      },
+      {
+        "title": "Police Panorama",
+        "category": "design",
+        "subcategory": "Postcode Search",
+        "cover": "police",
+        "description": "With BBC News Visual & Data Journalism Unit",
+        "credits": [],
+        "process": []
+      },
+    {
+        "title": "Poppies",
+        "category": "illustration",
+        "subcategory": "Digital Study",
         "cover": "poppies_painting",
+        "description": " ",
+        "credits": [],
+        "process": []
+      },
+      {
+        "title": "Spring",
+        "category": "illustration",
+        "subcategory": "Digital Painting",
+        "cover": "flower_head_girl",
+        "description": " ",
+        "credits": [],
+        "process": []
+      },
+      {
+        "title": "Turtle",
+        "category": "illustration",
+        "subcategory": "Digital Painting",
+        "cover": "turtle_painting",
         "description": " ",
         "credits": [],
         "process": []
