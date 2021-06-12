@@ -1,4 +1,7 @@
 import * as React from "react"
+import InstagramIcon from "../icons/instagram_icon.svg"
+import TwitterIcon from "../icons/twitter_icon.svg"
+import LinkedInIcon from "../icons/linkedin_icon.svg"
 import "../styles/global.scss"
 
 // markup
@@ -6,19 +9,18 @@ const IndexPage = () => {
   return (
     <main>
       <title>Sumi Senthi</title>
-      <h1>Sumi Senthi</h1>
+      <h1 className="header">Sumi Senthi</h1>
       {/* Nav */}
-      <div class="bio">
+      <div className="bio">
         <p>Illustrator + Designer, <br /> exploring the intersections of Art, Data and Technology.</p>
         <p>Mostly I just like making stuff...</p>
       </div>
-      <div class="social">
-        <svg class="social-icon" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 50 50" stroke-linejoin="round"><path d="M50 25.1c0 5 0 8.4-0.1 10.3 -0.2 4.6-1.5 8.1-4.1 10.5 -2.6 2.5-6 3.9-10.5 4.1 -1.9 0.1-5.4 0.1-10.3 0.1 -5 0-8.4 0-10.3-0.1 -4.6-0.2-8.1-1.5-10.5-4.1 -2.5-2.5-3.9-6-4.1-10.5 -0.1-1.9-0.1-5.4-0.1-10.3 0-4.9 0-8.4 0.1-10.3 0.2-4.6 1.5-8.1 4.1-10.5 2.5-2.5 6-3.9 10.5-4.1 1.9-0.1 5.4-0.1 10.3-0.1 5 0 8.4 0 10.3 0.1 4.6 0.2 8.1 1.5 10.5 4.1 2.5 2.6 3.9 6 4.1 10.5 0 1.9 0.1 5.3 0.1 10.3Zm-19.2-20.6l-11.7 0c-0.8 0-1.9 0-3.2 0.1 -1.3 0-2.5 0.1-3.4 0.4 -0.9 0.1-1.8 0.4-2.3 0.6 -1.1 0.5-2 1.1-2.9 1.9 -0.8 0.8-1.4 1.8-1.9 2.9 -0.2 0.6-0.5 1.4-0.6 2.3 -0.1 0.9-0.2 2-0.3 3.4 0 1.3-0.1 2.3-0.1 3.2l0 11.7c0 0.8 0 1.9 0.1 3.2 0 1.3 0.1 2.5 0.4 3.4 0.2 0.9 0.4 1.8 0.6 2.3 0.5 1.1 1.1 2 1.9 2.9 0.8 0.8 1.8 1.4 2.9 1.9 0.6 0.2 1.4 0.5 2.3 0.6 0.9 0.1 2 0.2 3.4 0.4 1.4 0.1 2.3 0.1 3.2 0.1l11.7 0c0.8 0 1.9 0 3.2-0.1 1.3 0 2.5-0.1 3.4-0.3 0.9-0.1 1.8-0.4 2.3-0.6 1.1-0.5 2-1.1 2.9-1.9 0.8-0.8 1.4-1.8 1.9-2.9 0.2-0.6 0.5-1.4 0.6-2.3 0.1-0.9 0.2-2 0.4-3.4 0-1.3 0.1-2.3 0.1-3.2l0-11.7c0-0.8 0-1.9-0.1-3.2 0-1.3-0.1-2.5-0.3-3.4 -0.1-0.9-0.4-1.8-0.6-2.3 -0.5-1.1-1.1-2-1.9-2.9 -0.8-0.8-1.8-1.4-2.9-1.9 -0.6-0.2-1.4-0.5-2.3-0.6 -0.9-0.1-2-0.2-3.4-0.4 -1.3 0-2.3-0.1-3.2-0.1Zm3.2 11.4c2.5 2.5 3.7 5.5 3.7 9.1 0 3.6-1.3 6.5-3.7 9.1 -2.5 2.5-5.5 3.7-9.1 3.7 -3.6 0-6.5-1.3-9.1-3.7 -2.5-2.5-3.7-5.5-3.7-9.1 0-3.6 1.3-6.5 3.7-9.1 2.5-2.5 5.5-3.7 9.1-3.7 3.6 0 6.7 1.2 9.1 3.7Zm-3.2 15c1.6-1.6 2.5-3.6 2.5-5.8 0-2.2-0.8-4.3-2.5-6 -1.6-1.6-3.6-2.5-6-2.5 -2.3 0-4.3 0.8-6 2.5 -1.6 1.6-2.5 3.6-2.5 6 0 2.3 0.8 4.3 2.5 5.8 1.6 1.6 3.6 2.5 6 2.5 2.3 0 4.3-0.8 6-2.5Zm9.6-21.4c0.6 0.6 0.9 1.3 0.9 2.1 0 0.8-0.4 1.5-0.9 2.1 -0.6 0.6-1.3 0.9-2.1 0.9 -0.8 0-1.5-0.3-2.1-0.9 -0.6-0.6-0.9-1.3-0.9-2.1 0-0.8 0.4-1.5 0.9-2.1 0.6-0.6 1.3-0.9 2.1-0.9 0.8 0 1.5 0.4 2.1 0.9Z" fill="#EBEFF3"/></svg>
-        <svg class="social-icon" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 50 50" stroke-linejoin="round"><clipPath><rect y="4.7" width="50" height="40.6"/></clipPath><g clip-path="url(#_clip1)"><path d="M50 9.5c-1.8 0.8-3.8 1.4-5.9 1.6 2.1-1.3 3.7-3.3 4.5-5.7 -2 1.2-4.2 2-6.5 2.5 -1.9-2-4.5-3.2-7.5-3.2 -5.7 0-10.3 4.6-10.3 10.3 0 0.8 0.1 1.6 0.3 2.3 -8.5-0.4-16.1-4.5-21.1-10.7 -0.9 1.5-1.4 3.3-1.4 5.2 0 3.6 1.8 6.7 4.6 8.5 -1.7-0.1-3.3-0.5-4.6-1.3 0 0 0 0.1 0 0.1 0 5 3.5 9.1 8.2 10.1 -0.9 0.2-1.8 0.4-2.7 0.4 -0.7 0-1.3-0.1-1.9-0.2 1.3 4.1 5.1 7 9.6 7.1 -3.5 2.8-7.9 4.4-12.7 4.4 -0.8 0-1.6 0-2.4-0.1 4.5 2.9 9.9 4.6 15.7 4.6 18.9 0 29.2-15.6 29.2-29.2 0-0.4 0-0.9 0-1.3 2-1.4 3.7-3.3 5.1-5.3l0 0Z" fill="#EBEFF3"/></g></svg>
-        <svg class="social-icon" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 50 50" stroke-linejoin="round"><path d="M39.6 0l-29.2 0c-5.8 0-10.4 4.7-10.4 10.4l0 29.2c0 5.8 4.7 10.4 10.4 10.4l29.2 0c5.8 0 10.4-4.7 10.4-10.4l0-29.2c0-5.8-4.7-10.4-10.4-10.4Zm-22.9 39.6l-6.2 0 0-22.9 6.3 0 0 22.9Zm-3.1-25.6c-2 0-3.6-1.6-3.6-3.7 0-2 1.6-3.7 3.6-3.7 2 0 3.6 1.6 3.6 3.7 0 2-1.6 3.7-3.6 3.7Zm28.1 25.6l-6.2 0 0-11.7c0-7-8.3-6.5-8.3 0l0 11.7 -6.2 0 0-22.9 6.3 0 0 3.7c2.9-5.4 14.6-5.8 14.6 5.2l0 14.1Z" fill="#EBEFF3"/></svg>
+      <div className="social">
+        <a className="social-icon" href='https://www.instagram.com/sumiscribblebot/'><img src={InstagramIcon} /></a>
+        <a className="social-icon" href='https://twitter.com/SumiSenthi'><img src={TwitterIcon} /></a>
+        <a className="social-icon" href='https://www.linkedin.com/in/sumisenthi/'><img src={LinkedInIcon} /></a>
       </div>
-      <a class="email" href='mailto:sumisenthiart@gmail.com'>sumisenthiart at gmail dot com</a>
-
+      <a className="email" href='mailto:sumisenthiart@gmail.com'>sumisenthiart at gmail dot com</a>
     </main>
   )
 }
