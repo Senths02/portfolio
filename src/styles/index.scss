@@ -1,0 +1,31 @@
+html {
+    background: linear-gradient(to bottom, rgba(0, 9, 30, 0.4) 0%, rgba(0, 9, 30, 0.4) 100%) no-repeat center center fixed, url("../images/covers/surreal_floral_head_hero_vert.png");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    .bio {
+        font-size: 1.1em;
+        font-weight: 300;
+        line-height: 1.5em;
+        margin: 3em;
+        position: absolute;
+        top: 8em;
+        word-wrap : break-word;
+    }
+    .email {
+        bottom: 3em;
+        left: 0;
+        position: absolute;
+        right:0;
+    }
+    .social {
+        bottom: 5em;
+        left: 0;
+        position: absolute;
+        right: 0;
+    }
+    .social-icon {
+        margin: 0.8em;
+    }
+}
