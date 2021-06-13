@@ -16,16 +16,21 @@ html {
     .email {
         bottom: 3em;
         left: 0;
+        letter-spacing: 0.15em;
+        line-height: 1.5em;
         position: absolute;
         right:0;
     }
     .social {
         bottom: 5em;
         left: 0;
+        padding: 0;
         position: absolute;
         right: 0;
-    }
-    .social-icon {
-        margin: 0.8em;
+        
+        .social-icon {
+            display: inline;
+            padding: 0.8em;
+        }
     }
 }

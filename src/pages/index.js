@@ -16,9 +16,9 @@ const IndexPage = () => {
             <p>Mostly I just like making stuff...</p>
           </div>
           <ul className="social">
-            <li><a className="social-icon" href='https://www.instagram.com/sumiscribblebot/'><img src={InstagramIcon} /></a></li>
-            <li><a className="social-icon" href='https://twitter.com/SumiSenthi'><img src={TwitterIcon} /></a></li>
-            <li><a className="social-icon" href='https://www.linkedin.com/in/sumisenthi/'><img src={LinkedInIcon} /></a></li>
+            <li className="social-icon"><a href='https://www.instagram.com/sumiscribblebot/'><img src={InstagramIcon} /></a></li>
+            <li className="social-icon"><a href='https://twitter.com/SumiSenthi'><img src={TwitterIcon} /></a></li>
+            <li className="social-icon"><a href='https://www.linkedin.com/in/sumisenthi/'><img src={LinkedInIcon} /></a></li>
           </ul>
           <a className="email" href='mailto:sumisenthiart@gmail.com'>sumisenthiart at gmail dot com</a>
         </div>
