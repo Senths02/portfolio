@@ -8,9 +8,9 @@ import "../styles/index.scss"
 // markup
 const IndexPage = () => {
   return (
-    <Layout pageTitle="Sumi Senthi">
+    <Layout pageTitle="Home">
       <main>
-        <div className="content">
+        <div className="homeContent">
           <div className="bio">
             <p>Illustrator + Designer, <br /> exploring the intersections of Art, Data and Technology.</p>
             <p>Mostly I just like making stuff...</p>
