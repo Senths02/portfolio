@@ -12,8 +12,7 @@ const IndexPage = () => {
       <main>
         <div className="homeContent">
           <div className="bio">
-            <p>Illustrator + Designer, <br /> exploring the intersections of Art, Data and Technology.</p>
-            <p>Mostly I just like making stuff...</p>
+            <p>Occasionally exploring the intersections of Art, Data and Technology...but mostly I just like making stuff.</p>
           </div>
           <ul className="social">
             <li className="social-icon"><a href='https://www.instagram.com/sumiscribblebot/'><img src={InstagramIcon} /></a></li>

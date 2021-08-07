@@ -7,10 +7,12 @@ html {
     .bio {
         font-size: 1.1em;
         font-weight: 300;
+        left: 0;
         line-height: 1.5em;
         margin: 3em;
         position: absolute;
-        top: 8em;
+        right: 0;
+        top: 20%;
         word-wrap : break-word;
     }
     .email {

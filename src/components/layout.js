@@ -1,6 +1,5 @@
 import * as React from 'react'
-import { Link } from 'gatsby'
-import { useStaticQuery, graphql } from 'gatsby'
+import { Link, useStaticQuery, graphql } from 'gatsby'
 import "../styles/global.scss"
 
 const Layout = ({ pageTitle, children }) => {
@@ -15,7 +14,7 @@ const Layout = ({ pageTitle, children }) => {
         `)
   return (
     <div>
-      <title>{ data.site.siteMetadata.title }: {pageTitle}</title>
+      <title>{pageTitle} | { data.site.siteMetadata.title }</title>
       <Link to="/"><h1 className="header">{ data.site.siteMetadata.title }</h1></Link>
       {/* Nav */}
       <nav>
