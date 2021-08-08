@@ -3,7 +3,7 @@
         "title": "A Line",
         "category": "else",
         "subcategory": "Generative Sketch",
-        "cover": "a_line",
+        "cover": "./covers/a_line_hero_vert.png",
         "description": " ",
         "credits": [],
         "process": []
@@ -12,7 +12,7 @@
         "title": "Atom to Orbit",
         "category": "design",
         "subcategory": "3D Visual Development",
-        "cover": "atom",
+        "cover": "./covers/atom_hero_vert.png",
         "description": " ",
         "credits": [],
         "process": []
@@ -21,7 +21,7 @@
         "title": "Contained",
         "category": "illustration",
         "subcategory": "Digital Painting",
-        "cover": "surreal_floral_head",
+        "cover": "./covers/surreal_floral_head_hero_vert.png",
         "description": " ",
         "credits": [],
         "process": []
@@ -30,7 +30,7 @@
         "title": "Dead Things",
         "category": "illustration",
         "subcategory": "Digital Painting",
-        "cover": "autumn_pumpkin",
+        "cover": "./covers/autumn_pumpkin_hero_vert.png",
         "description": " ",
         "credits": [],
         "process": []
@@ -39,7 +39,7 @@
         "title": "Interference Patterns",
         "category": "else",
         "subcategory": "Data Sketch",
-        "cover": "interference_patterns",
+        "cover": "./covers/interference_patterns_hero_vert.png",
         "description": " ",
         "credits": [],
         "process": []
@@ -48,7 +48,7 @@
         "title": "NHS Tracker",
         "category": "design",
         "subcategory": "Postcode Search",
-        "cover": "nhs_tracker",
+        "cover": "./covers/nhs_tracker_hero_vert.png",
         "description": "With BBC News Visual & Data Journalism Unit",
         "credits": [],
         "process": []
@@ -57,7 +57,7 @@
         "title": "Police Panorama",
         "category": "design",
         "subcategory": "Postcode Search",
-        "cover": "police",
+        "cover": "./covers/police_hero_vert.png",
         "description": "With BBC News Visual & Data Journalism Unit",
         "credits": [],
         "process": []
@@ -66,7 +66,7 @@
         "title": "Poppies",
         "category": "illustration",
         "subcategory": "Digital Study",
-        "cover": "poppies_painting",
+        "cover": "./covers/poppies_painting_hero_vert.png",
         "description": " ",
         "credits": [],
         "process": []
@@ -75,7 +75,7 @@
         "title": "Rule 30",
         "category": "else",
         "subcategory": "Generative Sketch",
-        "cover": "rule30",
+        "cover": "./covers/rule30_hero_vert.png",
         "description": " ",
         "credits": [],
         "process": []
@@ -84,7 +84,7 @@
         "title": "Spring",
         "category": "illustration",
         "subcategory": "Digital Painting",
-        "cover": "flower_head_girl",
+        "cover": "./covers/flower_head_girl_hero_vert.png",
         "description": " ",
         "credits": [],
         "process": []
@@ -93,7 +93,7 @@
         "title": "Turtle",
         "category": "illustration",
         "subcategory": "Digital Painting",
-        "cover": "turtle_painting",
+        "cover": "./covers/turtle_painting_hero_vert.png",
         "description": " ",
         "credits": [],
         "process": []
