@@ -2,63 +2,113 @@
 
 $dark-blue: #011138;
 $white: #EBEFF3;
+$grey: #454A4A;
 $font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas;
 $font-family-sans: 'Roboto', Helvetica, sans-serif;
 
 html {
-    color: $white;
+    background-color: $white;
+    color: $grey;
     font-family: $font-family-sans; 
     text-align: center;
     h1, p, ul, li {
-        letter-spacing: 0.15em;
-        text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.25);
+        letter-spacing: 0.1em;
+        // text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.25);
     }
-    h1 {
-        font-size: 1.5em;
-        font-weight: 100;
-    }
-    .header {
-        left: 0;
-        position: absolute;
-        right: 0;
-        top: 0.3em;
-    }
+
+      .header {
+        background-color: $white;
+      }
+
+      a:link[aria-current = 'page'] {
+        text-decoration: underline;
+        text-underline-offset: .3em;
+      }
+
       a:link {
-        color: $white;
-        font-weight: 100;
+        color: $grey;
+        font-weight: 500;
         text-decoration: none;
+
       }
       
       /* visited link */
       a:visited {
-        color: $white;
-        text-decoration: none;
+        color: $grey;
+        text-decoration: underline;
+        text-underline-offset: .3em;
       }
       
       /* mouse over link */
       a:hover {
-        color: $white;
-        text-decoration: none;
+        color: $grey;
+        text-decoration: underline;
+        text-underline-offset: .3em;
       }
       
-      /* selected link */
+      /* mouse down */
       a:active {
-        color: $white;
+        color: $grey;
         font-weight: 300;
-        text-decoration: none;
+        text-decoration: underline;
+        text-underline-offset: .3em;
       }
-      
-    .navContainer {
-        left: 0;
-        padding: 0;
-        position: absolute;
-        right: 0;
-        top: 3em;
 
-        .navItem {
-            display: inline;
-            font-size: 1.2em;
-            padding: 0.8em;
+      .active {
+        color: $grey;
+        font-weight: 300;
+        text-decoration: underline;
+        text-underline-offset: .3em;
+      }
+
+      [href]:focus:not(:active) {
+        outline: $grey .1em solid;
+      }
+
+      .vh {
+        clip-path: inset(50%);
+        height: 1px;
+        overflow: hidden;
+        position: absolute;
+        white-space: nowrap;
+        width: 1px;
+      }
+
+      nav {
+        background-color: $white;
+        right: 0;
+        top: 0;
+        left: 0;
+        margin: 0;
+        padding: .8em 0 0 0;
+        position: sticky;
+        // filter: drop-shadow(2px 2px 4px grey);
+
+        .logo {
+          width: 11em;
         }
-    }
+
+        .home {
+          display: block;
+          width: max-content;
+          margin: 0 auto;
+        }
+
+        .navigationGroup {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          list-style-type: none;
+          padding: 0;  
+          margin: 0;   
+          
+          .galleryItem {
+            font-size: 1.2em;
+            padding: .8em;
+            margin: 0;
+        }
+
+      }
+
+      }
   }
