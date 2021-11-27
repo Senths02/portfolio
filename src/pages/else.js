@@ -5,13 +5,13 @@ import { StaticQuery, graphql } from 'gatsby'
 import "../styles/index.scss"
 
 // markup
-export default function Illustration() {
+export default function Else() {
     return(
         <StaticQuery 
         query={
             graphql`
             {
-                allProjectsJson(filter: {category: {eq: "illustration"}}) {
+                allProjectsJson(filter: {category: {eq: "else"}}) {
                     nodes {
                     id
                     subcategory
@@ -39,7 +39,7 @@ export default function Illustration() {
         }
         render={ data => (
             <div>
-                <Layout pageTitle="Illustration">
+                <Layout pageTitle="Else">
                 <Gallery covers={data.allProjectsJson.nodes}></Gallery> 
                 </Layout>  
             </div>
