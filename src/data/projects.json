@@ -3,7 +3,8 @@
         "title": "A Line",
         "category": "else",
         "subcategory": "Generative Sketch",
-        "cover": "./covers/a_line_hero_vert.png",
+        "coververt": "./covers/a_line_hero_vert.png",
+        "coverhoz": "./covers/a_line_hero_hoz.png",
         "description": " ",
         "credits": [],
         "process": []
@@ -12,7 +13,8 @@
         "title": "Atom to Orbit",
         "category": "design",
         "subcategory": "3D Visual Development",
-        "cover": "./covers/atom_hero_vert.png",
+        "coververt": "./covers/atom_hero_vert.png",
+        "coverhoz": "./covers/atom_hero_hoz.png",
         "description": " ",
         "credits": [],
         "process": []
@@ -21,7 +23,8 @@
         "title": "Contained",
         "category": "illustration",
         "subcategory": "Digital Painting",
-        "cover": "./covers/surreal_floral_head_hero_vert.png",
+        "coververt": "./covers/surreal_floral_head_hero_vert.png",
+        "coverhoz": "./covers/surreal_floral_head_hero_hoz.png",
         "description": " ",
         "credits": [],
         "process": []
@@ -30,7 +33,8 @@
         "title": "Dead Things",
         "category": "illustration",
         "subcategory": "Digital Painting",
-        "cover": "./covers/autumn_pumpkin_hero_vert.png",
+        "coververt": "./covers/autumn_pumpkin_hero_vert.png",
+        "coverhoz": "./covers/autumn_pumpkin_hero_hoz.png",
         "description": " ",
         "credits": [],
         "process": []
@@ -39,7 +43,8 @@
         "title": "Interference Patterns",
         "category": "else",
         "subcategory": "Data Sketch",
-        "cover": "./covers/interference_patterns_hero_vert.png",
+        "coververt": "./covers/interference_patterns_hero_vert.png",
+        "coverhoz": "./covers/interference_patterns_hero_hoz.png",
         "description": " ",
         "credits": [],
         "process": []
@@ -48,7 +53,8 @@
         "title": "NHS Tracker",
         "category": "design",
         "subcategory": "Postcode Search",
-        "cover": "./covers/nhs_tracker_hero_vert.png",
+        "coververt": "./covers/nhs_hero_vert.png",
+        "coverhoz": "./covers/nhs_hero_hoz.png",
         "description": "With BBC News Visual & Data Journalism Unit",
         "credits": [],
         "process": []
@@ -57,7 +63,8 @@
         "title": "Police Panorama",
         "category": "design",
         "subcategory": "Postcode Search",
-        "cover": "./covers/police_hero_vert.png",
+        "coververt": "./covers/police_hero_vert.png",
+        "coverhoz": "./covers/police_hero_hoz.png",
         "description": "With BBC News Visual & Data Journalism Unit",
         "credits": [],
         "process": []
@@ -66,7 +73,8 @@
         "title": "Poppies",
         "category": "illustration",
         "subcategory": "Digital Study",
-        "cover": "./covers/poppies_painting_hero_vert.png",
+        "coververt": "./covers/poppies_painting_hero_vert.png",
+        "coverhoz": "./covers/poppies_painting_hero_hoz.png",
         "description": " ",
         "credits": [],
         "process": []
@@ -75,7 +83,8 @@
         "title": "Rule 30",
         "category": "else",
         "subcategory": "Generative Sketch",
-        "cover": "./covers/rule30_hero_vert.png",
+        "coververt": "./covers/rule30_hero_vert.png",
+        "coverhoz": "./covers/rule30_hero_hoz.png",
         "description": " ",
         "credits": [],
         "process": []
@@ -84,7 +93,8 @@
         "title": "Spring",
         "category": "illustration",
         "subcategory": "Digital Painting",
-        "cover": "./covers/flower_head_girl_hero_vert.png",
+        "coververt": "./covers/flower_head_girl_hero_vert.png",
+        "coverhoz": "./covers/flower_head_girl_hero_hoz.png",
         "description": " ",
         "credits": [],
         "process": []
@@ -93,7 +103,8 @@
         "title": "Turtle",
         "category": "illustration",
         "subcategory": "Digital Painting",
-        "cover": "./covers/turtle_painting_hero_vert.png",
+        "coververt": "./covers/turtle_painting_hero_vert.png",
+        "coverhoz": "./covers/turtle_painting_hero_hoz.png",
         "description": " ",
         "credits": [],
         "process": []
