@@ -5,7 +5,7 @@ import { StaticQuery, graphql } from 'gatsby'
 import "../styles/index.scss"
 
 // markup
-export default function Design() {
+const Design = () => {
     return(
         <StaticQuery 
         query={
@@ -14,7 +14,7 @@ export default function Design() {
                 allProjectsJson(filter: {category: {eq: "design"}}) {
                     nodes {
                     id
-                    subcategory
+                    caption
                     title
                     description
                     coververt {
@@ -33,6 +33,9 @@ export default function Design() {
                             )
                         }
                     }
+                    process {
+                        contributions
+                    }
                     }
                 }
             }`
@@ -48,3 +51,5 @@ export default function Design() {
     )
 
 }
+
+export default Design
