@@ -3,50 +3,33 @@ import { Link } from "gatsby"
 
 // styles
 const pageStyles = {
-  color: "#232129",
-  padding: "96px",
-  fontFamily: "-apple-system, Roboto, sans-serif, serif",
-}
-const headingStyles = {
-  marginTop: 0,
-  marginBottom: 64,
-  maxWidth: 320,
+  letterSpacing: "0.1em",
+  padding: "1.6em",
 }
 
-const paragraphStyles = {
-  marginBottom: 48,
+const headingStyles = {
+  marginTop: 0,
+  marginBottom: ".8em",
 }
-const codeStyles = {
-  color: "#8A6534",
-  padding: 4,
-  backgroundColor: "#FFF4DB",
-  fontSize: "1.25rem",
-  borderRadius: 4,
+
+const headingStyles2 = {
+  marginTop: 0,
+  marginBottom: "1.6em",
+  lineHeight: "1.4em",
 }
+
 
 // markup
 const NotFoundPage = () => {
   return (
     <main style={pageStyles}>
       <title>Not found</title>
-      <h1 style={headingStyles}>Page not found</h1>
-      <p style={paragraphStyles}>
-        Sorry{" "}
-        <span role="img" aria-label="Pensive emoji">
-          😔
-        </span>{" "}
-        we couldn’t find what you were looking for.
-        <br />
-        {process.env.NODE_ENV === "development" ? (
-          <>
-            <br />
-            Try creating a page in <code style={codeStyles}>src/pages/</code>.
-            <br />
-          </>
-        ) : null}
-        <br />
-        <Link to="/">Go home</Link>.
-      </p>
+      <span role="img" aria-label="face screaming in fear">😱</span>
+      <h1 style={headingStyles}>Oh no, you broke the internet!</h1>
+      <h2 style={headingStyles2}>Just kidding, the page can't be found</h2>
+      <div>
+        <Link to="/">Go Home</Link>
+      </div>
     </main>
   )
 }
