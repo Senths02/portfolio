@@ -3,9 +3,11 @@ import Gallery from "../components/gallery"
 import Layout from '../components/layout'
 import { StaticQuery, graphql } from 'gatsby'
 import "../styles/index.scss"
+import "../styles/else.scss"
+
 
 // markup
-export default function Else() {
+const Else = () => {
     return(
         <StaticQuery 
         query={
@@ -14,7 +16,7 @@ export default function Else() {
                 allProjectsJson(filter: {category: {eq: "else"}}) {
                     nodes {
                     id
-                    subcategory
+                    caption
                     title
                     description
                     coververt {
@@ -40,7 +42,8 @@ export default function Else() {
         render={ data => (
             <div>
                 <Layout pageTitle="Else">
-                <Gallery covers={data.allProjectsJson.nodes}></Gallery> 
+                    <p className="page-description">Small experiments with generative art, data art and emerging technologies.</p>
+                    <Gallery covers={data.allProjectsJson.nodes}></Gallery> 
                 </Layout>  
             </div>
          )
@@ -48,3 +51,5 @@ export default function Else() {
     )
 
 }
+
+export default Else
