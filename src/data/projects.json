@@ -2,111 +2,138 @@
     {
         "title": "A Line",
         "category": "else",
-        "subcategory": "Generative Sketch",
+        "caption": "Generative sketch: The journey of a line",
         "coververt": "./covers/a_line_hero_vert.png",
         "coverhoz": "./covers/a_line_hero_hoz.png",
-        "description": " ",
-        "credits": [],
-        "process": []
+        "description": "Geometric shapes made up of fine lines in yellow, orange and pink.",
+        "credits": {},
+        "process": {}
       },
     {
         "title": "Atom to Orbit",
         "category": "design",
-        "subcategory": "3D Visual Development",
+        "caption": "WebXR exploration with BBC UX&D and VR Hub",
         "coververt": "./covers/atom_hero_vert.png",
         "coverhoz": "./covers/atom_hero_hoz.png",
-        "description": " ",
-        "credits": [],
-        "process": []
+        "description": "Low poly 3D model of Earth against a lilac-blue background scattered with turquoise particles.",
+        "credits": {},
+        "process": {
+          "goal": "",
+          "contributions": "Visual development, protoyping, 3D modelling and animation"
+        }
       },
       {
         "title": "Contained",
         "category": "illustration",
-        "subcategory": "Digital Painting",
+        "caption": "",
         "coververt": "./covers/surreal_floral_head_hero_vert.png",
         "coverhoz": "./covers/surreal_floral_head_hero_hoz.png",
-        "description": " ",
-        "credits": [],
-        "process": []
+        "description": "A glowing pool of blue liquid surrounded by pink flora sits inside a levitating blue head as shadow hands move towards it.",
+        "credits": {},
+        "process": {}
+      },
+      {
+        "title": "CSS Robot",
+        "category": "else",
+        "caption": "Pure CSS robot",
+        "coververt": "./covers/css_robot_hero_vert.png",
+        "coverhoz": "./covers/css_robot_hero_hoz.png",
+        "description": "A cute robot with big eyes, a big glowing blue face, metal bolts on either side it's neck, and a pink brain exposed.",
+        "credits": {},
+        "process": {}
       },
       {
         "title": "Dead Things",
         "category": "illustration",
-        "subcategory": "Digital Painting",
+        "caption": "",
         "coververt": "./covers/autumn_pumpkin_hero_vert.png",
         "coverhoz": "./covers/autumn_pumpkin_hero_hoz.png",
-        "description": " ",
-        "credits": [],
-        "process": []
+        "description": "Pumpkin person stolling through an autumnal park with a pumkin latte in hand and a moth-eaten scarf waving in the wind. A ghost and their kid laugh and walk in the background.",
+        "credits": {},
+        "process": {}
+      },
+      {
+        "title": "Esoterica: In Dreams",
+        "category": "illustration",
+        "caption": "",
+        "coververt": "./covers/esoterica_in_dreams_hero_vert.png",
+        "coverhoz": "./covers/esoterica_in_dreams_hero_hoz.png",
+        "description": "A ghostly figure enveloped in red light, falls into the crashing waves below.",
+        "credits": {},
+        "process": {}
       },
       {
         "title": "Interference Patterns",
         "category": "else",
-        "subcategory": "Data Sketch",
+        "caption": "Data sketch using NASA's radio emissons from Earth and Saturn",
         "coververt": "./covers/interference_patterns_hero_vert.png",
         "coverhoz": "./covers/interference_patterns_hero_hoz.png",
-        "description": " ",
-        "credits": [],
-        "process": []
+        "description": "Thin arcs of varying sizes and transparency make up a rippled circular shape",
+        "credits": {},
+        "process": {}
+      },
+      {
+        "title": "Mars",
+        "category": "else",
+        "caption": "3D model of Mars using a Digital Elevation Model for topography",
+        "coververt": "./covers/mars_hero_vert.png",
+        "coverhoz": "./covers/mars_hero_hoz.png",
+        "description": "Mars emerging from the shadow.",
+        "credits": {},
+        "process": {}
       },
       {
         "title": "NHS Tracker",
         "category": "design",
-        "subcategory": "Postcode Search",
+        "caption": "NHS tracker with BBC Visual & Data Journalism",
         "coververt": "./covers/nhs_hero_vert.png",
         "coverhoz": "./covers/nhs_hero_hoz.png",
-        "description": "With BBC News Visual & Data Journalism Unit",
-        "credits": [],
-        "process": []
+        "description": "Representation of a mobile user interface with postcode search and an overview of a trust's targets. Green ticks show when targets have been met, two large figures compare the trust with England as a whole, and a bar chart is used to show each individual trust against each other.",
+        "credits": {},
+        "process": {
+          "contributions": "UI, Data Visualisation, and Illustration"
+        }
       },
       {
         "title": "Police Panorama",
         "category": "design",
-        "subcategory": "Postcode Search",
+        "caption": "Tracker for recorded crime Vs charges with BBC Visual & Data Journalism",
         "coververt": "./covers/police_hero_vert.png",
         "coverhoz": "./covers/police_hero_hoz.png",
-        "description": "With BBC News Visual & Data Journalism Unit",
-        "credits": [],
-        "process": []
+        "description": "Representation of a mobile user interface with police force search and a bar chart comparing percentage change in recorded crimes and charges.",
+        "credits": {},
+        "process": {
+          "contributions": "A unified Design/Development approach with ideation, UI, Data Vis, Illustration, prototyping and programming"
+        }
       },
     {
         "title": "Poppies",
         "category": "illustration",
-        "subcategory": "Digital Study",
+        "caption": "",
         "coververt": "./covers/poppies_painting_hero_vert.png",
         "coverhoz": "./covers/poppies_painting_hero_hoz.png",
-        "description": " ",
-        "credits": [],
-        "process": []
-      },
-      {
-        "title": "Rule 30",
-        "category": "else",
-        "subcategory": "Generative Sketch",
-        "coververt": "./covers/rule30_hero_vert.png",
-        "coverhoz": "./covers/rule30_hero_hoz.png",
-        "description": " ",
-        "credits": [],
-        "process": []
+        "description": "Painterly poppies in the summer with the warming glow of the sun beaming down on them.",
+        "credits": {},
+        "process": {}
       },
       {
         "title": "Spring",
         "category": "illustration",
-        "subcategory": "Digital Painting",
+        "caption": "",
         "coververt": "./covers/flower_head_girl_hero_vert.png",
         "coverhoz": "./covers/flower_head_girl_hero_hoz.png",
-        "description": " ",
-        "credits": [],
-        "process": []
+        "description": "A young girl points her face towards the light as her flower shaped head blooms.",
+        "credits": {},
+        "process": {}
       },
       {
         "title": "Turtle",
         "category": "illustration",
-        "subcategory": "Digital Painting",
+        "caption": "",
         "coververt": "./covers/turtle_painting_hero_vert.png",
         "coverhoz": "./covers/turtle_painting_hero_hoz.png",
-        "description": " ",
-        "credits": [],
-        "process": []
+        "description": "A rainbow coloured turtle.",
+        "credits": {},
+        "process": {}
       }
 ]
