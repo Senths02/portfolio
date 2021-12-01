@@ -9,7 +9,7 @@ module.exports = {
       options: {
         name: 'project',
         path: './src/data'
-      }
+      },
     },
     'gatsby-transformer-json',
     `gatsby-plugin-image`,

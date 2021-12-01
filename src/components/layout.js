@@ -1,11 +1,10 @@
 import * as React from 'react'
-// import { Link } from '@reach/router'
 import { Link, StaticQuery, graphql } from 'gatsby'
 import "../styles/global.scss"
 import siteName from "../images/sumi_senthi.png"
 
 
-export default function Layout ({ pageTitle, children }) {
+const Layout = ({ pageTitle, children }) => {
   return (
     <StaticQuery 
         query={
@@ -20,6 +19,9 @@ export default function Layout ({ pageTitle, children }) {
             }
         render={ data => (
           <div>
+            {/* <div className="skip">
+              <a href="#main">Skip to content</a>
+            </div> */}
             <title>{pageTitle} | { data.site.siteMetadata.title }</title>
             {/* Nav */}
             <nav role="navigation" className="primaryNavigation">
@@ -39,3 +41,5 @@ export default function Layout ({ pageTitle, children }) {
         }
   />)
 }
+
+export default Layout
