@@ -14,7 +14,7 @@
     z-index: -1;
 }
 
-.gallery-image.persistentSquare, .gallery-image.postcardDesktop {
+.gallery-image.persistentSquare, .gallery-image.squareDesktop, .gallery-image.postcardDesktop {
   margin: 3rem 20rem 1rem 20rem;
 } 
 
@@ -32,7 +32,7 @@
       margin: 2rem 1rem 1rem 1rem;
     }
 
-    .gallery-image.persistentSquare, .gallery-image.postcardDesktop {
+    .gallery-image.persistentSquare, .gallery-image.squareDesktop, .gallery-image.postcardDesktop {
       margin: 2rem 14rem 1rem 14rem;
     } 
   }
@@ -42,7 +42,7 @@
     margin: 2rem 1rem 1rem 1rem;
   }
 
-    .gallery-image.persistentSquare, .gallery-image.postcardDesktop {
+    .gallery-image.persistentSquare, .gallery-image.squareDesktop, .gallery-image.postcardDesktop {
       margin: 2rem 8rem 1rem 8rem;
     } 
   }
@@ -56,7 +56,7 @@
     height: 400px;
   }
 
-  .gallery-image.persistentSquare, .gallery-image.postcardDesktop {
+  .gallery-image.persistentSquare, .gallery-image.squareDesktop, .gallery-image.postcardDesktop {
     margin: 2rem 1rem 1rem 1rem;
   } 
 

@@ -22,23 +22,12 @@
         "process": {}
       },
       {
-        "title": "Axolotl",
-        "category": "illustration",
-        "caption": "",
-        "coververt": "./covers/axolotl_painting_hero.png",
-        "coverhoz": "./covers/axolotl_painting_hero.png",
-        "specialsize": "persistentSquare",
-        "description": "Pink axolotl with purple tips.",
-        "credits": {},
-        "process": {}
-      },
-      {
         "title": "Contained",
         "category": "illustration",
         "caption": "",
         "coververt": "./covers/surreal_floral_head_hero_vert.png",
         "coverhoz": "./covers/surreal_floral_head_hero_hoz.png",
-        "specialsize": "none",
+        "specialsize": "tallMobile",
         "description": "A glowing pool of blue liquid surrounded by pink flora sits inside a levitating blue head as shadow hands move towards it.",
         "credits": {},
         "process": {}
@@ -55,17 +44,6 @@
         "process": {}
       },
       {
-        "title": "Dead Things",
-        "category": "illustration",
-        "caption": "",
-        "coververt": "./covers/autumn_pumpkin_hero.png",
-        "coverhoz": "./covers/autumn_pumpkin_hero.png",
-        "specialsize": "persistentSquare",
-        "description": "Pumpkin person stolling through an autumnal park with a pumkin latte in hand and a moth-eaten scarf waving in the wind. A ghost and their kid laugh and walk in the background.",
-        "credits": {},
-        "process": {}
-      },
-      {
         "title": "Esoterica: In Dreams",
         "category": "illustration",
         "caption": "",
@@ -73,17 +51,6 @@
         "coverhoz": "./covers/esoterica_in_dreams_hero_hoz.png",
         "specialsize": "none",
         "description": "A ghostly figure enveloped in red light, falls into the crashing waves below.",
-        "credits": {},
-        "process": {}
-      },
-      {
-        "title": "Franz Josef",
-        "category": "illustration",
-        "caption": "",
-        "coververt": "./covers/franz_josef_painting_hero_vert.png",
-        "coverhoz": "./covers/franz_josef_painting_hero_hoz.png",
-        "specialsize": "postcardDesktop",
-        "description": "The view from Fanz Josef glacier in gouache.",
         "credits": {},
         "process": {}
       },
@@ -157,10 +124,21 @@
         "title": "Portrait",
         "category": "illustration",
         "caption": "",
-        "coververt": "./covers/portrait_hero_vert.png",
-        "coverhoz": "./covers/portrait_hero_hoz.png",
+        "coververt": "./covers/portrait_painting_hero_vert.png",
+        "coverhoz": "./covers/portrait_painting_hero_hoz.png",
         "specialsize": "persistentLandscape",
         "description": "Sketchy portrait of three siblings",
+        "credits": {},
+        "process": {}
+      },
+      {
+        "title": "Dead Things",
+        "category": "illustration",
+        "caption": "",
+        "coververt": "./covers/autumn_pumpkin_hero_vert.png",
+        "coverhoz": "./covers/autumn_pumpkin_hero.png",
+        "specialsize": "tallMobile squareDesktop",
+        "description": "Pumpkin person stolling through an autumnal park with a pumkin latte in hand and a moth-eaten scarf waving in the wind. A ghost and their kid laugh and walk in the background.",
         "credits": {},
         "process": {}
       },
@@ -205,6 +183,17 @@
         "coverhoz": "./covers/uig_painting_hero_hoz.png",
         "specialsize": "persistentLandscape",
         "description": "The sun breaks through grey clouds over the sea in Uig.",
+        "credits": {},
+        "process": {}
+      },
+      {
+        "title": "Axolotl",
+        "category": "illustration",
+        "caption": "",
+        "coververt": "./covers/end_axolotl_painting_hero.png",
+        "coverhoz": "./covers/end_axolotl_painting_hero.png",
+        "specialsize": "persistentSquare",
+        "description": "Pink axolotl with purple tips.",
         "credits": {},
         "process": {}
       }
