@@ -9,14 +9,14 @@ const Gallery = ({ covers }) => {
             {covers.map((project) => {
                 const image = withArtDirection(getImage(project.coverhoz), [
                     { 
-                        media: "(max-width: 576px)", image: getImage(project.coververt),
+                        media: "(max-width: 480px)", image: getImage(project.coververt),
                     },
                 ]);
 
                 return (
                     // console.log(project.cover.publicURL)
                     <div key={project.id} >
-                        <GatsbyImage className="gallery-image" image={image} alt={project.description} loading="lazy"/>
+                        <GatsbyImage className={"gallery-image " + project.specialsize} image={image} alt={project.description} loading="lazy"/>
                         <p className="image-caption" >{project.caption}</p>
                         {(project.process)? <p className="contributions">{project.process.contributions}</p>: null}
                     </div>

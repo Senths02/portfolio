@@ -16,6 +16,7 @@ const Illustration = () => {
                     id
                     caption
                     title
+                    specialsize
                     description
                     coververt {
                         publicURL

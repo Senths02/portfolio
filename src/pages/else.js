@@ -18,6 +18,7 @@ const Else = () => {
                     id
                     caption
                     title
+                    specialsize
                     description
                     coververt {
                         publicURL
@@ -42,7 +43,7 @@ const Else = () => {
         render={ data => (
             <div>
                 <Layout pageTitle="Else">
-                    <p className="page-description">Small experiments with generative art, data art and emerging technologies.</p>
+                    {/* <p className="page-description">Small experiments with generative art, data art and emerging technologies.</p> */}
                     <Gallery covers={data.allProjectsJson.nodes}></Gallery> 
                 </Layout>  
             </div>

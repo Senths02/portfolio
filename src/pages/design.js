@@ -16,6 +16,7 @@ const Design = () => {
                     id
                     caption
                     title
+                    specialsize
                     description
                     coververt {
                         publicURL
@@ -32,9 +33,6 @@ const Design = () => {
                                 placeholder: BLURRED
                             )
                         }
-                    }
-                    process {
-                        contributions
                     }
                     }
                 }

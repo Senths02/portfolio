@@ -10,17 +10,16 @@ const IndexPage = () => {
       <main className="homeContainer">
       {/* <div aria-hidden="true" className="homeImage"></div> */}
         <div className="homeContent">
-        <img alt="Portrait of Sumi with black framed glasses, in ink and pencil crayons" className="profile-picture" src={profilePic}/>
+        <img alt="Sketch of Sumi with black framed glasses, in ink and pencil crayons" className="profile-picture" src={profilePic}/>
           <div className="bio">
-            <p>Currently at the BBC working on UX/UI's, Data Vis, Illustrations, 3D environments, and animated explainers.</p>
+            <p>Designer for the BBC, contributing to UX/UI, Illustration, and animation.</p>
           </div>
           <hr aria-hidden="true" className="solid"></hr>
           <ul className="contact">
             <li className="contactItem"><a href='mailto:sumisenthiart@gmail.com'>Email</a></li>
             <li className="contactItem"><a href='https://www.linkedin.com/in/sumisenthi/'>LinkedIn</a></li>
-            <li className="contactItem"><a href='https://www.instagram.com/sumishaped/'>Instagram</a></li>
+            {/* <li className="contactItem"><a href='https://www.instagram.com/sumishaped/'>Instagram</a></li> */}
           </ul>
-          <p className="wip-message">Website still under construction and may break</p>
         </div>
       </main>
     </Layout>
