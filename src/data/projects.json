@@ -68,7 +68,7 @@
       {
         "title": "Instagram Colour Palettes",
         "category": "else",
-        "caption": "Analysing colour from my Instagram gallery",
+        "caption": "Analysing colour palettes",
         "coververt": "./covers/instagram_colour_palettes_hero_vert.png",
         "coverhoz": "./covers/instagram_colour_palettes_hero_hoz.png",
         "specialsize": "none",
@@ -79,7 +79,7 @@
       {
         "title": "Mars",
         "category": "else",
-        "caption": "Mars: Experimenting with 3D topography",
+        "caption": "Mars: Exploring 3D topography",
         "coververt": "./covers/mars_hero_vert.png",
         "coverhoz": "./covers/mars_hero_hoz.png",
         "specialsize": "none",
@@ -90,7 +90,7 @@
       {
         "title": "NHS Tracker",
         "category": "design",
-        "caption": "Tracking NHS targets",
+        "caption": "NHS target tracker",
         "coververt": "./covers/nhs_hero_vert.png",
         "coverhoz": "./covers/nhs_hero_hoz.png",
         "specialsize": "tallMobile",
@@ -101,7 +101,7 @@
       {
         "title": "Police Panorama",
         "category": "design",
-        "caption": "Tracking recorded crime Vs charges",
+        "caption": "Police tracker",
         "coververt": "./covers/police_hero_vert.png",
         "coverhoz": "./covers/police_hero_hoz.png",
         "specialsize": "tallMobile",

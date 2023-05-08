@@ -12,7 +12,7 @@ const IndexPage = () => {
         <div className="homeContent">
         <img alt="Sketch of Sumi with black framed glasses, in ink and pencil crayons" className="profile-picture" src={profilePic}/>
           <div className="bio">
-            <p>Designer for the BBC, contributing to UX/UI, Illustration, and animation.</p>
+            <p>Hello. <br/> I'm a Designer and I love drawing - the writing part is a work in progress...</p>
           </div>
           <hr aria-hidden="true" className="solid"></hr>
           <ul className="contact">
