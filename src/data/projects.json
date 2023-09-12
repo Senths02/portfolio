@@ -1,8 +1,9 @@
 [
     {
-        "title": "A Line",
+        "title": "Randomised generative sketch",
+        "subtitle": "",
         "category": "else",
-        "caption": "Randomised generative sketch",
+        "caption": "",
         "coververt": "./covers/a_line_hero_vert.png",
         "coverhoz": "./covers/a_line_hero_hoz.png",
         "specialsize": "none",
@@ -10,19 +11,69 @@
         "credits": {},
         "process": {}
       },
-    {
-        "title": "Atom to Orbit",
+      {
+        "title": "Introducing the future of data privacy, through a watch party experience",
+        "subtitle": "BBC | February 2022 - July 2022",
         "category": "design",
-        "caption": "Exploring WebXR",
+        "caption": "#UX #UI #InformationDesign #VisualDesign #FigmaPrototyping #Motion",
+        "coververt": "./covers/together_data_pod_hero_vert.png",
+        "coverhoz": "./covers/together_data_pod_hero_hoz.png",
+        "specialsize": "persistentLandscape",
+        "description": "Screenshot of Mexico V Poland World Cup match streaming with interactive key moments highlighted and options to view line-ups and statistics",
+        "credits": {},
+        "process": {}
+      },
+      {
+        "title": "A flexible way to experience live moments during the World Cup",
+        "subtitle": "BBC | September 2022 - November 2022",
+        "category": "design",
+        "caption": "#UX #UI #UserTesting #UserSurvey #FigmaPrototyping #FrontEndDevelopment",
+        "coververt": "./covers/world_cup_hero_vert.png",
+        "coverhoz": "./covers/world_cup_hero_hoz.png",
+        "specialsize": "persistentLandscape",
+        "description": "Screenshot of Mexico V Poland World Cup match streaming with interactive key moments highlighted and options to view line-ups and statistics",
+        "credits": {},
+        "process": {}
+      },
+      {
+        "title": "Building a platform for experimental TV experiences",
+        "subtitle": "BBC | April 2021 - April 2022",
+        "category": "design",
+        "caption": "#UX #UI #VisualDesign #Figma #FeedbackAnalysis",
+        "coververt": "./covers/px_hero_vert.png",
+        "coverhoz": "./covers/px_hero_hoz.png",
+        "specialsize": "persistentLandscape",
+        "description": "Home page of a TV streaming application",
+        "credits": {},
+        "process": {}
+      },
+      {
+        "title": "How might Augmented Reality affect learning outcomes?",
+        "subtitle": "BBC | 2020",
+        "category": "design",
+        "caption": "#UI #VisualDesign #AdobeIllustrator #Figma #3D #Blender",
+        "coververt": "./covers/pollen_patrol_hero_vert.png",
+        "coverhoz": "./covers/pollen_patrol_hero_hoz.png",
+        "specialsize": "persistentLandscape",
+        "description": "Screenshots of AR app to learn about bees and flowers",
+        "credits": {},
+        "process": {}
+      },
+      {
+        "title": "Exploring WebXR",
+        "subtitle": "BBC | 2020",
+        "category": "design",
+        "caption": "#VisualDesign #3D #Blender #HTMLPrototyping",
         "coververt": "./covers/atom_hero_vert.png",
         "coverhoz": "./covers/atom_hero_hoz.png",
-        "specialsize": "tallMobile",
+        "specialsize": "persistentLandscape",
         "description": "Low poly 3D model of Earth against a lilac-blue background scattered with turquoise particles.",
         "credits": {},
         "process": {}
       },
       {
-        "title": "Contained",
+        "title": "",
+        "subtitle": "",
         "category": "illustration",
         "caption": "",
         "coververt": "./covers/surreal_floral_head_hero_vert.png",
@@ -34,8 +85,9 @@
       },
       {
         "title": "CSS Robot",
+        "subtitle": "",
         "category": "else",
-        "caption": "CSS robot",
+        "caption": "",
         "coververt": "./covers/css_robot_hero_vert.png",
         "coverhoz": "./covers/css_robot_hero_hoz.png",
         "specialsize": "none",
@@ -44,7 +96,8 @@
         "process": {}
       },
       {
-        "title": "Esoterica: In Dreams",
+        "title": "",
+        "subtitle": "",
         "category": "illustration",
         "caption": "",
         "coververt": "./covers/esoterica_in_dreams_hero_vert.png",
@@ -55,9 +108,10 @@
         "process": {}
       },
       {
-        "title": "Interference Patterns",
+        "title": "Visualising sounds from space",
+        "subtitle": "",
         "category": "else",
-        "caption": "Visualising sounds from space",
+        "caption": "",
         "coververt": "./covers/interference_patterns_hero_vert.png",
         "coverhoz": "./covers/interference_patterns_hero_hoz.png",
         "specialsize": "none",
@@ -66,9 +120,10 @@
         "process": {}
       },
       {
-        "title": "Instagram Colour Palettes",
+        "title": "Analysing Instagram colour palettes",
+        "subtitle": "",
         "category": "else",
-        "caption": "Analysing colour palettes",
+        "caption": "",
         "coververt": "./covers/instagram_colour_palettes_hero_vert.png",
         "coverhoz": "./covers/instagram_colour_palettes_hero_hoz.png",
         "specialsize": "none",
@@ -77,9 +132,10 @@
         "process": {}
       },
       {
-        "title": "Mars",
+        "title": "Mars: Exploring 3D topography",
+        "subtitle": "",
         "category": "else",
-        "caption": "Mars: Exploring 3D topography",
+        "caption": "",
         "coververt": "./covers/mars_hero_vert.png",
         "coverhoz": "./covers/mars_hero_hoz.png",
         "specialsize": "none",
@@ -88,29 +144,32 @@
         "process": {}
       },
       {
-        "title": "NHS Tracker",
+        "title": "Visualising NHS targets",
+        "subtitle": "BBC | 2017",
         "category": "design",
-        "caption": "NHS target tracker",
+        "caption": "#UI #DataDesign #Illustration #Sketch #AdobeIllustrator #Photoshop",
         "coververt": "./covers/nhs_hero_vert.png",
         "coverhoz": "./covers/nhs_hero_hoz.png",
-        "specialsize": "tallMobile",
+        "specialsize": "persistentLandscape",
         "description": "Representation of a mobile user interface with postcode search and an overview of a trust's targets. Green ticks show when targets have been met, two large figures compare the trust with England as a whole, and a bar chart is used to show each individual trust against each other.",
         "credits": {},
         "process": {}
       },
       {
-        "title": "Police Panorama",
+        "title": "Visualising charges and recorded crime",
+        "subtitle": "BBC | 2018",
         "category": "design",
-        "caption": "Police tracker",
+        "caption": "#UI #DataDesign #PairedProgramming #Sketch #AdobeIllustrator #Photoshop",
         "coververt": "./covers/police_hero_vert.png",
         "coverhoz": "./covers/police_hero_hoz.png",
-        "specialsize": "tallMobile",
+        "specialsize": "persistentLandscape",
         "description": "Representation of a mobile user interface with police force search and a bar chart comparing percentage change in recorded crimes and charges.",
         "credits": {},
         "process": {}
       },
     {
-        "title": "Poppies",
+        "title": "",
+        "subtitle": "",
         "category": "illustration",
         "caption": "",
         "coververt": "./covers/poppies_painting_hero_vert.png",
@@ -121,7 +180,8 @@
         "process": {}
       },
       {
-        "title": "Portrait",
+        "title": "",
+        "subtitle": "",
         "category": "illustration",
         "caption": "",
         "coververt": "./covers/portrait_painting_hero_vert.png",
@@ -132,7 +192,8 @@
         "process": {}
       },
       {
-        "title": "Dead Things",
+        "title": "",
+        "subtitle": "",
         "category": "illustration",
         "caption": "",
         "coververt": "./covers/autumn_pumpkin_hero_vert.png",
@@ -143,7 +204,8 @@
         "process": {}
       },
       {
-        "title": "Spring",
+        "title": "",
+        "subtitle": "",
         "category": "illustration",
         "caption": "",
         "coververt": "./covers/flower_head_girl_hero.png",
@@ -154,7 +216,8 @@
         "process": {}
       },
       {
-        "title": "St Bees",
+        "title": "",
+        "subtitle": "",
         "category": "illustration",
         "caption": "",
         "coververt": "./covers/st_bees_painting_hero_vert.png",
@@ -165,7 +228,8 @@
         "process": {}
       },
       {
-        "title": "Turtle",
+        "title": "",
+        "subtitle": "",
         "category": "illustration",
         "caption": "",
         "coververt": "./covers/turtle_painting_hero_vert.png",
@@ -176,7 +240,8 @@
         "process": {}
       },
       {
-        "title": "Uig",
+        "title": "",
+        "subtitle": "",
         "category": "illustration",
         "caption": "",
         "coververt": "./covers/uig_painting_hero_vert.png",
@@ -187,7 +252,8 @@
         "process": {}
       },
       {
-        "title": "Axolotl",
+        "title": "",
+        "subtitle": "",
         "category": "illustration",
         "caption": "",
         "coververt": "./covers/end_axolotl_painting_hero.png",

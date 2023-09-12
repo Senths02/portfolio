@@ -16,6 +16,7 @@ const Design = () => {
                     id
                     caption
                     title
+                    subtitle
                     specialsize
                     description
                     coververt {

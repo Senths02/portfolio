@@ -18,6 +18,7 @@ const Else = () => {
                     id
                     caption
                     title
+                    subtitle
                     specialsize
                     description
                     coververt {
