@@ -14,7 +14,7 @@ const IndexPage = () => {
           <div className="bio">
             <p>Hello.</p> 
             <p>I'm a Designer and Illustrator.</p>
-            <p>I've enjoyed designing digital experiences for over 6 years - specialising in emerging technology and editorial content.</p>
+            <p>I've enjoyed working on digital experiences for over 6 years. Specialising in emerging technology and editorial content.</p>
             <p>I'm currently learning about the natural sciences and developing my illustration skills.</p>
             <p>Open for contract work.</p> 
           </div>

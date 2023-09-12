@@ -6,7 +6,8 @@
 }
 
 .gallery-item {
-  background-color: #ffffff;
+  background-color: rgba(255, 255, 255, .5);
+  // border: .1rem solid #ebebeb;
   margin: 1rem 12rem 3rem 12rem;
   padding: 2rem;
 }
@@ -60,7 +61,7 @@
 
 @media screen and (max-width: 768px) {
   .gallery-item {
-    margin: 1rem 1rem 3rem 1rem;
+    margin: 1rem 0rem 3rem 0rem;
     padding: 1rem;
   }
 
@@ -79,7 +80,7 @@
   }
 
   .gallery-item.persistentSquare, .gallery-item.squareDesktop, .gallery-item.postcardDesktop {
-    margin: 1rem 1rem 3rem 1rem;
+    margin: 1rem 0rem 3rem 0rem;
   } 
 
 }
