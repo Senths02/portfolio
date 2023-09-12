@@ -1,8 +1,14 @@
 .gallery-container {
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 5em;
-    // margin-top: 9em;
+    padding-bottom: 5em;
+    padding-top: 1em;
+}
+
+.gallery-item {
+  background-color: #ffffff;
+  margin: 1rem 12rem 3rem 12rem;
+  padding: 2rem;
 }
 
 .gallery-image {
@@ -10,52 +16,58 @@
     // display: block;
     // filter: drop-shadow(4px 4px 6px rgb(190, 190, 190));
     // height: 20em;
-    margin: 1rem 8rem 1rem 8rem;
-    z-index: -1;
+    margin: 0 0 1rem 0;
+    // z-index: -1;
 }
 
-.gallery-image.persistentSquare, .gallery-image.squareDesktop, .gallery-image.postcardDesktop {
-  margin: 3rem 20rem 1rem 20rem;
+.gallery-item.persistentSquare, .gallery-item.squareDesktop, .gallery-item.postcardDesktop {
+  margin: 1rem 18rem 3rem 18rem;
+  // padding: 0 3rem;
 } 
 
 .image-caption {
   color:#595F5F;
-  font-size: .8rem;
-  margin: 0 .5rem;
+  font-size: .85rem;
+  margin: 0;
 }
 
 .image-subtitle {
-  margin: .5rem .5rem 0 .5rem;
+  margin: 0 0 .5rem 0;
 }
 
 .image-title {
-  margin: 3rem .5rem 0 .5rem;
+  margin: 0 0 .5rem 0;
 }
 
 .contributions {
-    margin: .5em .5em 2em .5em;
-    font-size: .9em;
+  margin: .5em .5em 2em .5em;
+  font-size: .9em;
 }
 
 @media screen and (max-width: 992px) {
-    .gallery-image {
-      margin: 1rem;
+    .gallery-item {
+      margin: 1rem 5rem 3rem 5rem;
     }
 
-    .gallery-image.persistentSquare, .gallery-image.squareDesktop, .gallery-image.postcardDesktop {
-      margin: 1rem 14rem;
+    .image-title {
+      margin: 0 0 .7rem 0;
+    }
+
+    .gallery-item.persistentSquare, .gallery-item.squareDesktop, .gallery-item.postcardDesktop {
+      margin: 1rem 11rem 3rem 11rem;
     } 
   }
 
 @media screen and (max-width: 768px) {
-  .gallery-image {
-    margin: 1rem;
+  .gallery-item {
+    margin: 1rem 1rem 3rem 1rem;
+    padding: 1rem;
   }
 
-    .gallery-image.persistentSquare, .gallery-image.squareDesktop, .gallery-image.postcardDesktop {
-      margin: 1rem 8rem;
-    } 
-  }
+  .gallery-item.persistentSquare, .gallery-item.squareDesktop, .gallery-item.postcardDesktop {
+    margin: 1rem 4rem 3rem 4rem;
+  } 
+}
 
 @media screen and (max-width: 480px) {
   .gallery-image.tallMobile {
@@ -66,8 +78,8 @@
     height: 400px;
   }
 
-  .gallery-image.persistentSquare, .gallery-image.squareDesktop, .gallery-image.postcardDesktop {
-    margin: 1rem;
+  .gallery-item.persistentSquare, .gallery-item.squareDesktop, .gallery-item.postcardDesktop {
+    margin: 1rem 1rem 3rem 1rem;
   } 
 
 }

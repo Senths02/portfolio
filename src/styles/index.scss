@@ -19,7 +19,6 @@ html {
     // }
 
     .homeContent {
-
         background-color: #EBEFF3;
         margin: 1.5em auto;
         padding: 1em;
@@ -29,10 +28,6 @@ html {
         .bio {
             max-width: 22em;
             color: #454A4A;
-            font-size: 1.1em;
-            font-weight: 700;
-            line-height: 1.5em;
-            // padding-bottom: .8em;
             margin-bottom: 0;
             word-wrap : break-word;
             margin-left: auto;
@@ -40,7 +35,7 @@ html {
         }
 
         hr.solid {
-            width: 2em;
+            width: 2rem;
             margin: 0 auto;
             border-top: 1px solid #454A4A;
           }
@@ -48,11 +43,12 @@ html {
         .contact {
             list-style-type: none;
             padding: 0;
-            // margin: 0;
             
             .contactItem {
-                padding: 1em;
+                padding: .9rem;
                 display: inline;
+                font-size: 1rem;
+                font-weight: 700;
             }
 
             @media screen and (max-width: 576px) {
@@ -63,7 +59,7 @@ html {
         }
 
         .profile-picture {
-            width: 10em;
+            width: 10rem;
             // filter: drop-shadow(2px 2px 4px grey);
         }
 

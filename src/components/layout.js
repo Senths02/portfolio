@@ -29,9 +29,9 @@ const Layout = ({ pageTitle, children }) => {
             <span className="vh">Sumisenthi home page</span>
               <div>
                 <ul className="navigationGroup">
-                  <li className="navItem galleryItem"><Link to="/illustration">Illustration</Link></li>
-                  <li className="navItem galleryItem"><Link to="/design">Design</Link></li>
-                  <li className="navItem galleryItem"><Link to="/else">Else</Link></li>
+                  <li className="navItem"><Link to="/design">Design</Link></li>
+                  <li className="navItem"><Link to="/illustration">Illustration</Link></li>
+                  <li className="navItem"><Link to="/else">Else</Link></li>
                 </ul>
               </div>
             </nav>
