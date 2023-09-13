@@ -26,7 +26,7 @@ html {
         // filter: drop-shadow(4px 4px 6px grey);
 
         .bio {
-            max-width: 22em;
+            max-width: 22rem;
             color: #454A4A;
             margin-bottom: 0;
             word-wrap : break-word;
@@ -63,6 +63,12 @@ html {
             // filter: drop-shadow(2px 2px 4px grey);
         }
 
+    }
+
+    @media screen and (max-width: 576px) {
+        .homeContent {
+          max-width: 80%;
+        }
     }
 
 }

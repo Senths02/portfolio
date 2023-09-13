@@ -12,11 +12,17 @@ const IndexPage = () => {
         <div className="homeContent">
         <img alt="Sketch of Sumi with black framed glasses, in ink and pencil crayons" className="profile-picture" src={profilePic}/>
           <div className="bio">
-            <p>Hello.</p> 
-            <p>I'm a Designer and Illustrator.</p>
-            <p>I've enjoyed working on digital experiences for over 6 years. Specialising in emerging technology and editorial content.</p>
+            <p>Hello,<br/>I'm a Designer + Illustrator.</p> 
+            
+            <hr aria-hidden="true" className="solid"></hr>
+            <p> After working on digital experiences for over 6 years i've learnt to appreciate:</p>
+            <p>Empathy-driven approaches <br/>for long-term solutions</p>
+            <p>Being flexible with <br/> tools and technologies</p>
+            <p>The importance of play <br/> for creativity and innovation</p>
+            <p>🐙</p>
+            <p>But, I love learning new things.</p>
             <p>I'm currently learning about the natural sciences and developing my illustration skills.</p>
-            <p>Open for contract work.</p> 
+            <p>I'm also open for contract work.</p> 
           </div>
           <hr aria-hidden="true" className="solid"></hr>
           <ul className="contact">
