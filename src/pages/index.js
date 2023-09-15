@@ -15,18 +15,18 @@ const IndexPage = () => {
             <p>Hello,<br/>I'm a Designer + Illustrator.</p> 
             
             <hr aria-hidden="true" className="solid"></hr>
-            <p> After working on digital experiences for over 6 years i've learnt to appreciate:</p>
+            <p>After working on digital experiences for over 6 years i've learnt to value:</p>
             <p>Empathy-driven approaches <br/>for long-term solutions</p>
             <p>Being flexible with <br/> tools and technologies</p>
-            <p>The importance of play <br/> for creativity and innovation</p>
+            <p>A playful ethos for innovation</p>
             <p>🐙</p>
-            <p>But, I love learning new things.</p>
+            <p>I also love learning new things.</p>
             <p>I'm currently learning about the natural sciences and developing my illustration skills.</p>
-            <p>I'm also open for contract work.</p> 
           </div>
           <hr aria-hidden="true" className="solid"></hr>
+          <p>Open to work:</p> 
           <ul className="contact">
-            <li className="contactItem"><a href='mailto:sumisenthiart@gmail.com'>Email</a></li>
+            <li className="contactItem"><a href='mailto:sumi.senthinathan@gmail.com'>Email</a></li>
             <li className="contactItem"><a href='https://www.linkedin.com/in/sumisenthi/'>LinkedIn</a></li>
             {/* <li className="contactItem"><a href='https://www.instagram.com/sumishaped/'>Instagram</a></li> */}
           </ul>
