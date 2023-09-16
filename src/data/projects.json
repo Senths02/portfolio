@@ -6,7 +6,7 @@
         "caption": "#GenerativeSketch #P5 #Javascript #ObservableNotebook",
         "coververt": "./covers/a_line_hero_vert.png",
         "coverhoz": "./covers/a_line_hero_hoz.png",
-        "specialsize": "none",
+        "specialsize": "tallMobile",
         "description": "Geometric shapes made up of fine lines in yellow, orange and pink.",
         "credits": {},
         "process": {}
