@@ -12,42 +12,6 @@
         "process": {}
       },
       {
-        "title": "Introducing the future of data privacy, through a watch party experience",
-        "subtitle": "BBC | 2022",
-        "category": "design",
-        "caption": "#UX #UI #InformationDesign #VisualDesign #BrandIdentity #FigmaPrototyping #UXA",
-        "coververt": "./covers/together_data_pod_hero_vert.png",
-        "coverhoz": "./covers/together_data_pod_hero_hoz.png",
-        "specialsize": "persistentLandscape",
-        "description": "Screenshot of Mexico V Poland World Cup match streaming with interactive key moments highlighted and options to view line-ups and statistics",
-        "credits": {},
-        "process": {}
-      },
-      {
-        "title": "A flexible way to experience live moments during the World Cup",
-        "subtitle": "BBC | 2022",
-        "category": "design",
-        "caption": "#UX #UI #Interaction #UserTesting #UserSurvey #FigmaPrototyping #FrontEndCoding #CustomIcons #ResponsiveWeb",
-        "coververt": "./covers/world_cup_hero_vert.png",
-        "coverhoz": "./covers/world_cup_hero_hoz.png",
-        "specialsize": "persistentLandscape",
-        "description": "Screenshot of Mexico V Poland World Cup match streaming with interactive key moments highlighted and options to view line-ups and statistics",
-        "credits": {},
-        "process": {}
-      },
-      {
-        "title": "Creating a platform for experimental TV experiences",
-        "subtitle": "BBC | 2021 - 2022",
-        "category": "design",
-        "caption": "#UX #UI #Interaction #JourneyMapping #BrandIdentity #Figma #Miro #WorkshopDesign",
-        "coververt": "./covers/px_hero_vert.png",
-        "coverhoz": "./covers/px_hero_hoz.png",
-        "specialsize": "persistentLandscape",
-        "description": "Home page of a TV streaming application",
-        "credits": {},
-        "process": {}
-      },
-      {
         "title": "Understanding how Augmented Reality could affect learning outcomes",
         "subtitle": "BBC | 2020",
         "category": "design",

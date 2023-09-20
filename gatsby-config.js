@@ -11,6 +11,17 @@ module.exports = {
         path: './src/data'
       },
     },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'content',
+        path: './src/content'
+      },
+    },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {},
+    },
     'gatsby-transformer-json',
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
