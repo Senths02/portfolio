@@ -1,7 +1,7 @@
 import * as React from "react"
-import Gallery from "../components/gallery"
+import { graphql, StaticQuery } from 'gatsby'
 import Layout from '../components/layout'
-import { StaticQuery, graphql } from 'gatsby'
+import Gallery from "../components/gallery"
 import "../styles/index.scss"
 
 // markup

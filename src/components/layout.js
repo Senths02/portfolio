@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { Link, StaticQuery, graphql } from 'gatsby'
+import {  graphql, StaticQuery, Link } from 'gatsby'
 import "../styles/global.scss"
 import siteName from "../images/sumi_senthi.png"
 
@@ -26,7 +26,7 @@ const Layout = ({ pageTitle, children }) => {
             {/* Nav */}
             <nav role="navigation" className="primaryNavigation">
               <div><Link aria-current="page" className="navItem home" to="/"><img className="logo" alt="" src={siteName}/></Link></div>
-            <span className="vh">Sumisenthi home page</span>
+            <span className="vh home-title">Sumisenthi home page</span>
               <div>
                 <ul className="navigationGroup">
                   <li className="navItem"><Link to="/design">Design</Link></li>
