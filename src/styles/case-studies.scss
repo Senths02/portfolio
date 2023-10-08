@@ -131,13 +131,23 @@
 }
 
 .cs-markdown {
-text-align: left;
-letter-spacing: .08rem;
+    text-align: left;
+    letter-spacing: .08rem;
 }
 
 .cs-markdown > p:first-child {
     text-align: center;
 }
+
+summary {
+    // font-size: 1.2rem;
+    letter-spacing: .08rem;
+}
+
+// details > details > summary {
+//     // font-weight: bold;
+//     font-size: 1.1rem;
+// }
 
 @media screen and (max-width: 992px) {
     .cs-thumb-container {

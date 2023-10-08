@@ -12,8 +12,22 @@ html {
     font-family: $font-family-sans; 
     text-align: center;
 
-    p, ul, li {
-      letter-spacing: .1rem;
+    blockquote {
+      border-left: 3px solid #EB105D;
+      padding: 0 0.8em;
+      margin: 1.5rem 2.5rem;
+
+      > *, p, ul, li, ol {
+        font-weight: bold;
+      }
+  
+    }
+
+    p, ul, li, button {
+      font-size: .95rem;
+      letter-spacing: .08rem;
+      line-height: 1.4rem;
+      font-weight: 500;
     }
 
     h1 {
@@ -24,14 +38,20 @@ html {
 
     h2 {
       font-size: 1.2rem;
-      font-weight: 500;
+      font-weight: 600;
       letter-spacing: .08rem;
     }
 
-    p, button {
-      font-size: .95rem;
-      font-weight: 500;
-      line-height: 1.4rem;
+    h3 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      letter-spacing: .08rem;
+    }
+
+    h4 {
+      font-size: 1rem;
+      font-weight: 600;
+      letter-spacing: .08rem;
     }
 
     .home-title {
@@ -66,7 +86,7 @@ html {
     }
 
     a:link {
-      color: $grey;
+      color: $dark-blue;
       font-weight: 500;
       text-decoration: none;
 
@@ -74,35 +94,35 @@ html {
     
     /* visited link */
     a:visited {
-      color: $grey;
+      color: $dark-blue;
       text-decoration: underline;
       text-underline-offset: .3em;
     }
     
     /* mouse over link */
     a:hover {
-      color: $grey;
+      color: $dark-blue;
       text-decoration: underline;
       text-underline-offset: .3em;
     }
       
     /* mouse down */
     a:active {
-      color: $grey;
+      color: $dark-blue;
       font-weight: 300;
       text-decoration: underline;
       text-underline-offset: .3em;
     }
 
     .active {
-      color: $grey;
+      color: $dark-blue;
       font-weight: 300;
       text-decoration: underline;
       text-underline-offset: .3em;
     }
 
     [href]:focus:not(:active) {
-      outline: $grey .1em solid;
+      outline: $dark-blue .1em solid;
     }
 
     .vh {

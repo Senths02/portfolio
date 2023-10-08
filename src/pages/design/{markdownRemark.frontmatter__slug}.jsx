@@ -24,7 +24,7 @@ export default function CaseStudyTemplate({
           </nav>
           <div className="cs-content">
             <h1 className="cs-title">{frontmatter.title}</h1>
-            <h2 className="cs-subtitle">{frontmatter.company} | {frontmatter.date}</h2>
+            {/* <p className="cs-subtitle">{frontmatter.company} | {frontmatter.date}</p> */}
             <div className="cs-markdown" dangerouslySetInnerHTML={{ __html: html }}></div>
           </div>
           </Layout>
