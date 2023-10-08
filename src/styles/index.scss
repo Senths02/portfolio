@@ -1,0 +1,74 @@
+html {
+
+    body {
+        margin: 0;
+    }
+
+    // .homeImage {
+    //     background-image: url(../data/covers/poppies_painting_hero_vert.png);
+    //     background-repeat: no-repeat;
+    //     background-position: center;
+    //     background-size: cover;
+    //     position: fixed;
+    //     z-index: -1;
+    //     top: 0;
+    //     right: 0;
+    //     bottom: 0;
+    //     left: 0;
+    //     // opacity: 0.2;
+    // }
+
+    .homeContent {
+        background-color: #EBEFF3;
+        margin: 1.5em auto;
+        padding: 1em;
+        max-width: 60%;
+        // filter: drop-shadow(4px 4px 6px grey);
+
+        .bio {
+            max-width: 22rem;
+            color: #454A4A;
+            margin-bottom: 0;
+            word-wrap : break-word;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        hr.solid {
+            width: 2rem;
+            margin: 0 auto;
+            border-top: 1px solid #454A4A;
+          }
+        
+        .contact {
+            list-style-type: none;
+            padding: 0;
+            
+            .contactItem {
+                padding: .9rem;
+                display: inline;
+                font-size: 1rem;
+                font-weight: 700;
+            }
+
+            @media screen and (max-width: 576px) {
+                .contactItem {
+                  display: block;
+                }
+            }
+        }
+
+        .profile-picture {
+            width: 10rem;
+            // filter: drop-shadow(2px 2px 4px grey);
+        }
+
+    }
+
+    @media screen and (max-width: 576px) {
+        .homeContent {
+          max-width: 80%;
+        }
+    }
+
+}

@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
+$dark-blue: #223067;
+$white: #EBEFF3;
+$grey: #454A4A;
+$font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas;
+$font-family-sans: 'Roboto', Helvetica, sans-serif;
+
+html {
+    background-color: $white;
+    color: $grey;
+    font-family: $font-family-sans; 
+    text-align: center;
+
+    blockquote {
+      border-left: 3px solid #EB105D;
+      padding: 0 0.8em;
+      margin: 1.5rem 2.5rem;
+
+      > *, p, ul, li, ol {
+        font-weight: bold;
+      }
+  
+    }
+
+    p, ul, li, button {
+      font-size: .95rem;
+      letter-spacing: .08rem;
+      line-height: 1.4rem;
+      font-weight: 500;
+    }
+
+    h1 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      letter-spacing: .08rem;
+    }
+
+    h2 {
+      font-size: 1.2rem;
+      font-weight: 600;
+      letter-spacing: .08rem;
+    }
+
+    h3 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      letter-spacing: .08rem;
+    }
+
+    h4 {
+      font-size: 1rem;
+      font-weight: 600;
+      letter-spacing: .08rem;
+    }
+
+    .home-title {
+      font-size: 3em;
+    }
+
+    .header {
+      background-color: $white;
+    }
+
+    button {
+      min-height: 48px;
+      background-color: transparent;
+      border: 1.5px solid $dark-blue;
+      color: $dark-blue;
+      letter-spacing: .07rem;
+      padding: 0 1rem;
+      margin: 1rem 0;
+      cursor: pointer;
+    }
+
+    button:active,
+    button:focus,
+    button:hover {
+      background-color: $dark-blue;
+      color: #ebebeb;
+    }
+
+    a:link[aria-current = 'page'] {
+      text-decoration: underline;
+      text-underline-offset: .3em;
+    }
+
+    a:link {
+      color: $dark-blue;
+      font-weight: 500;
+      text-decoration: none;
+
+    }
+    
+    /* visited link */
+    a:visited {
+      color: $dark-blue;
+      text-decoration: underline;
+      text-underline-offset: .3em;
+    }
+    
+    /* mouse over link */
+    a:hover {
+      color: $dark-blue;
+      text-decoration: underline;
+      text-underline-offset: .3em;
+    }
+      
+    /* mouse down */
+    a:active {
+      color: $dark-blue;
+      font-weight: 300;
+      text-decoration: underline;
+      text-underline-offset: .3em;
+    }
+
+    .active {
+      color: $dark-blue;
+      font-weight: 300;
+      text-decoration: underline;
+      text-underline-offset: .3em;
+    }
+
+    [href]:focus:not(:active) {
+      outline: $dark-blue .1em solid;
+    }
+
+    .vh {
+      clip-path: inset(50%);
+      height: 1px;
+      overflow: hidden;
+      position: absolute;
+      white-space: nowrap;
+      width: 1px;
+    }
+
+    nav {
+      background-color: $white;
+      right: 0;
+      top: 0;
+      left: 0;
+      margin: 0;
+      padding: 2rem 0 0 0;
+      
+      .logo {
+        width: 10em;
+      }
+
+      .home {
+        display: block;
+        width: max-content;
+        margin: 0 auto;
+      }
+
+      .navigationGroup {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 0;  
+        margin: 0;   
+        list-style-type: none;
+        
+        .navItem {
+          font-size: 1.2em;
+          margin: 0;
+          padding: .8em;
+        }
+
+      }
+
+    }
+    .breadcrumb-nav {
+      margin: 0 1rem 1rem 1rem;
+      padding: 0;
+
+      .breadcrumbGroup {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 0;  
+        margin: 0;   
+        list-style-type: none;
+
+        .breadcrumb-divider {
+          // font-size: 1.2em;
+          margin: 0;
+          padding: .2rem;
+        }
+
+      }
+    }
+  }
