@@ -8,7 +8,7 @@ coverIcon: "images/group.svg"
 iconLight: "images/group-light.svg"
 ---
 
-**I supported the design of a watch party experience. Including a new way for user's to safeguard and manage the data they collect along the way.**
+**I helped design a watch party experience - including a new way for user's to safeguard and manage the data they collect along the way.**
 
 ![GATSBY_EMPTY_ALT](images/watch-party-data/together_data_pod_hero_hoz.png)
 
@@ -21,10 +21,10 @@ iconLight: "images/group-light.svg"
 
 >\#UX \#UI \#VisualDesign \#UXA \#InformationDesign
 
-## Overseeing craft and deliverables
+### Overseeing craft and deliverables
 When the UX Designer overseeing craft and deliverables had to temporarily leave the project, I was asked to fill in.
 
-My role involved making improvements to the experience. I also maintained consistency across several work streams, and supported collaboration.
+My role involved making improvements to the experience, maintaining consistency across work streams, and supporting collaboration.
 
 ![Conveying complexity](images/watch-party-data/conveying_complexity.png)
 
@@ -33,7 +33,7 @@ My role involved making improvements to the experience. I also maintained consis
 <details>
 <summary>Background</summary>
 
-## The big picture
+### The big picture
 When organisations use data to deliver rich, personalised services, it's not always clear to user's how their data is collected and what happens with it.
 
 ![Standard practice](images/watch-party-data/standard_practice.png)
@@ -44,13 +44,13 @@ Some groups and organisations, like the BBC, have been exploring human-centred a
 ### The technology
 A Personal Data Store is decentralised to store data securely. 
 
->User's would have increased visibility and control of their data. They would decide who can access it to protect their online identity.
+>User's would have increased visibility and control of their data. They'd decide who could access it to protect their online identity.
 
-![Magnifying and controlling data](images/watch-party-data/with_a_pds.png)
+![Viewing and controlling data](images/watch-party-data/with_a_pds.png)
 
 <br>
 
-## The little picture
+### The little picture
 The aim of this project was to understand how the BBC could provide rich and secure experiences using this technology. 
 
 >How might we enhance a BBC service safely and securely with a Personal Data Store?
@@ -60,11 +60,11 @@ The aim of this project was to understand how the BBC could provide rich and sec
 <details>
 <summary>The project</summary>
 
-## An experimental pilot
-The idea was to create a pilot by adapting a watch party service called BBC Together, to work with the current version of Personal Data Store technology from [Inrupt](https://solidproject.org/). 
+### An experimental pilot
+The idea was to create a pilot, by adapting a watch party service called BBC Together, to work with the current version of Personal Data Store technology (from [Inrupt](https://solidproject.org/)). 
 <br>
 
-## Objectives
+### Objectives
 The broader goal was to improve practices around personal data. The purpose of the pilot was to demonstrate the capabilities of using Personal Data Stores for that end.
 
 >The aim was to understand value to user's through research and development.
@@ -82,12 +82,12 @@ Essentially:
 <details>
 <summary>Discovery</summary>
 
-## Understanding work to date
+### Understanding work to date
 I joined this project in the early stages of development. 
 
 This project was part of a wider initiative and I had been involved with previous work. The technology was relatively familiar, but my understanding of the work to date was built by listening to people in the team and absorbing documentation. 
 
-The rest of the team had collated research insights, analysed competitor watch party services, defined requirements, and designed an MVP.
+>The rest of the team had collated research insights, analysed competitor watch party services, defined requirements, and designed a first pass.
 
 Familiarity with the work to date would allow me to contribute effectively. I needed to understand:
 
@@ -106,7 +106,7 @@ Familiarity with the work to date would allow me to contribute effectively. I ne
 <details>
 <summary>The audience</summary>
 
-## Audience research
+### Audience research
 >The pilot was aimed at a watch party audience. 
 
 Aggregated insight from surveys indicated the audience at the time was predominantly under 35. 
@@ -117,7 +117,7 @@ We also knew that specific types of content (like stand-alone entertainment and 
 
 <br>
 
-## User groups
+### User groups
 The team had identified several user groups (and combinations thereof). Including user's:
 - New to BBC Together
 - Returning to BBC Together 
@@ -129,14 +129,14 @@ The team had identified several user groups (and combinations thereof). Includin
 <details>
 <summary>The needs of the many</summary>
 
-## Transforming industry standards
+### Transforming industry standards
 This project formed part of a wider initiative to inform large scale change.
 
 >It was essential that the pilot fulfilled user needs. But we also needed to consider public service ambitions and business needs.
 
 <br>
 
-### Public interest
+#### Public interest
 As a public service, the intention was to influence policy and legislation to improve industry standards.
 
 Informing policy required insight into how the concept would benefit the public as a whole. Including the feasibility for both audiences and service providers to adopt the approach long-term. 
@@ -146,7 +146,7 @@ Informing policy required insight into how the concept would benefit the public 
 
 <br>
 
-### Business needs
+#### Business needs
 Similarly, to commit to further developments, the BBC needed insight into the value for audiences and to understand the potential for scaling up.
 
 The pilot would act as a proof of concept to stimulate progress across portfolios.
@@ -156,7 +156,7 @@ The pilot would act as a proof of concept to stimulate progress across portfolio
 
 <br>
 
-### User needs
+#### User needs
 Insight from user's would be fundamental to developing standards in the public's interest.
 
 >Research participants from previous work saw high-level value in the concept and technology. This pilot would allow user's to determine tangible value by exploring some of the features in more depth.
@@ -177,7 +177,7 @@ The user needs around watch parties were less defined and formed a large part of
 <details>
 <summary>One small step</summary>
 
-## The first sprint
+### The first sprint
 I joined this project while a draft version of the pilot was being built. 
 
 >The plan was to iterate on the designs and prepare for in-depth research.
@@ -188,7 +188,7 @@ We explored two work streams:
 
 <br>
 
-## Sprint goals
+### Sprint goals
 The designs would be tested with the audience through an online community and a series of moderated interviews. 
 
 >Research outcomes would not only inform the pilot's development, but also contribute to overall project objectives.
@@ -209,7 +209,7 @@ The designs would be tested with the audience through an online community and a 
 >- BBC Together (a watch party service)
 >- Data Pod (for managing your data)
 
-The team identified two points of friction specifically:
+The team identified two points of friction:
 1. The Data Pod set-up process
 2. The navigation
 
@@ -224,7 +224,9 @@ Setting up the Data Pod dominated the start and disrupted the flow. During testi
 <br>
 
 #### 2. The navigation
-In the navigation, access to the Data Pod was discrete and often overlooked. A tooltip highlighted the Data Pod on entry, but:
+In the navigation, access to the Data Pod was discrete and often overlooked.
+
+A tooltip highlighted the Data Pod on entry, but:
 - The tooltip was easily dismissed and forgotten
 - The Pod was empty when attention was drawn to it
 <br>
@@ -233,7 +235,7 @@ In the navigation, access to the Data Pod was discrete and often overlooked. A t
 
 <br>
 
-### Risk
+#### Risk
 >Overall, the risks included a lack of insight regarding the Data Pod, which was critical for achieving core objectives. 
 
 </details>
@@ -242,11 +244,11 @@ In the navigation, access to the Data Pod was discrete and often overlooked. A t
 <summary>Analysing the source</summary>
 
 ### The hierarchy
-I was tasked with looking at the navigation, while the content designer looked at the set-up process.
+I was tasked with looking at the navigation, while the Content Designer looked at the copy for the set-up process.
 
 After analysing the designs, it was clear there was a wider issue in the general hierarchy. 
 
->The hierarchy was aimed at watch party users, and restricted Data Pod content.
+>The hierarchy was built for BBC Together, and restricted Data Pod content.
 
 Any focus on the Data Pod would seem out of place in a hierarchy built for BBC Together.
 <br>
@@ -262,18 +264,18 @@ To understand the existing approach, I looked at:
 - Design intent
 
 The rationale for BBC Together taking priority was to:
-- Avoid deterring watch party user's on entry
-- Prevent cognitive load and context switching
-- Convey ambitions for the technology
+- Avoid deterring watch party user's on entry with the Data Pod
+- Focus on a single service to prevent cognitive load and context switching
+- Convey ambitions for the technology as a utility service
 
 <br>
 
 #### The problem with conveying the future
 There were limitations to conveying ambitions for the technology. 
 
-In the future, the Data Pod would be a separate service. This service would also be responsible for meeting the user needs that the pilot was struggling to meet.
+In the future, the Data Pod would be a separate product. This product would also be responsible for meeting the user needs that the pilot was struggling to meet.
 
->The pilot's hierarchy wasn't built for a Data Pod service, but the pilot still needed to meet the needs of one. 
+>The pilot's hierarchy wasn't built for the Data Pod as a product, but the pilot still needed to meet the needs of one. 
 
 ![Unmet pod needs](images/watch-party-data/unmet_pod_needs.png)
 
@@ -285,9 +287,9 @@ In the future, the Data Pod would be a separate service. This service would also
 ### Defining the task and success criteria
 >Access to the Data Pod needed to be clearer in the navigation without deterring watch party users. 
 
-Criteria for success included increased usage and understanding of the technology. Clearer access should also increase relevant insight to meet project objectives.
+Criteria for success included increased usage and understanding of the technology. Clearer access would also increase relevant insight to meet project objectives.
 
-The upcoming research would allow us to gauge the response to inform the live experience.  
+The upcoming research would allow us to gauge the response, to inform the live experience.  
 
 ![Clear Data Pod proposition](images/watch-party-data/navigation_challenge.png)
 
@@ -305,8 +307,6 @@ I looked at requirements for the navigation from a content and technical perspec
 
 ### Mapping the structure
 I mapped the content structure for the pilot's navigation to determine where a Data Pod service could belong. 
-
-The result was a more balanced structure to give both services room to serve their distinct functions, while sharing the same interface. 
 <br>
 
 #### Original content structure
@@ -318,16 +318,19 @@ The result was a more balanced structure to give both services room to serve the
 ![Access to Data Pod at same level as BBC Together](images/watch-party-data/balanced_sitemap.png)
 
 <br>
+
+The result was a more balanced structure to give both services room to serve their distinct functions, while sharing the same interface. 
+
 Taking the Data Pod out of BBC Together also reduced complexity by removing a layer of navigation.
 <br>
-<br>
+
 </details>
 <br>
 <details>
 <summary>Ideating</summary>
 
 ### Conveying importance
-Although there were two services with the same core requirements, they didn't necessarily have the same level of importance.
+Although BBC Together and the Data Pod had the same core requirements, they didn't necessarily have the same level of importance.
 
 The Data Pod was the focus of research objectives, but remained a utility service. And needed to remain unobtrusive to the watch party experience. 
 
@@ -765,7 +768,7 @@ I added programme information and altered the styling of the modal for consisten
 
 <br>
 
-#### A shared experience (without waiting)
+#### A shared experience
 After removing the waiting area from the original designs, we had a second option for aligning the host and invitee journey's.
 <br>
 
@@ -845,7 +848,7 @@ To develop a brand identity for the Data Pod, we leveraged a toolkit of illustra
 
 <br>
 
-#### The logo
+### The logo
 As the team developed the Data Pod screens, I combined the logo they used, with the illustration style. 
 
 >The toolkit used dashed lines to convey streams of data. After exploring different compositions, I settled on a dashed underline. 
@@ -860,7 +863,7 @@ The purpose of the underline was to introduce colour and serve as a hover state 
 
 <br>
 
-#### The colour palette
+### The colour palette
 
 The background colours for the Data Pod were established, but the palette was missing a highlight colour to aid recognition.
 
@@ -877,7 +880,7 @@ After concerns were raised around the [stereotypical use of the colour blue with
 
 <br>
 
-#### A Data Pod explainer
+### A Data Pod explainer
 While working on a Data Pod explainer module with the Content Designer, I continued to develop the identity. 
 
 >We prioritised cognitive ease and readability for the subject matter. 
@@ -1024,7 +1027,7 @@ The Data Pod became more identifiable for evaluation as a result.
 <details>
 <summary>Delivering stimulus</summary>
 
-## Assembling prototypes
+### Assembling prototypes
 >The team worked on different parts of the experience in parallel and we met regularly for updates, collaboration, and feedback.
 
 As the work came together, I oversaw the integration into research prototypes. I maintained consistency across the UI and visual design, and inserted the appropriate transitions and animations. 
@@ -1041,7 +1044,7 @@ For example, with the screen at the end of the show, I:
 
 <br>
 
-## Research
+### Research
 The prototypes were used in moderated research sessions. 
 
 I supplied the link to the prototypes and was on hand for any necessary adjustments.
@@ -1057,13 +1060,13 @@ Static images also helped us learn more about user needs for watch parties throu
 <details>
 <summary>Technical build</summary>
 
-## Research stimulus to build ready
+### Research stimulus to build ready
 >As confidence in the designs increased following research, I integrated the relevant elements into a separate prototype for building. 
 
 We collaborated with the relevant Engineers responsible to ensure designs could be replicated.
 <br>
 
-### Sign-off
+#### Sign-off
 >It was challenging to determine when designs were ready for building. 
 
 We began developing a process for signing designs off, including:
@@ -1073,7 +1076,7 @@ We began developing a process for signing designs off, including:
 
 <br>
 
-### Multiple workstreams
+#### Multiple workstreams
 We had a single file for several workstreams, (including aspirational research stimulus), which caused some confusion for Engineers. 
 
 I spent some time labelling and annotating designs and prototypes, which prevented some confusion. 
@@ -1081,7 +1084,7 @@ I spent some time labelling and annotating designs and prototypes, which prevent
 The general practice now is to create a separate file for the technical build.
 <br>
 
-## Launch
+### Launch
 Unfortunately I wasn't involved in the project for the final iterations and delivery. But I was able to take part in some testing to resolve technical bugs before the pilot went live. 
 
 Some designs don't make the final experience, but priorities were met and the pilot went live for over 6 months.
@@ -1091,7 +1094,7 @@ Some designs don't make the final experience, but priorities were met and the pi
 <details>
 <summary>Result</summary>
 
-## The live trial
+### The live trial
 >The results of the trial are in the process of being analysed to determine next steps. 
 
 Personally, I found it extremely rewarding to work on a project that was tackling large scale issues and exploring new ground. 
@@ -1106,7 +1109,7 @@ An overview of the pilot and technology can be found in the following BBC News s
 <br>
 <br>
 
-## Further reading
+### Further reading
 [BBC R&D Blog](https://www.bbc.co.uk/rd/blog/2022-10-social-tv-and-personal-data)
 
 [Inrupt case study](https://www.inrupt.com/case-studies/the-bbc-shows-its-audience-the-future-of-personal-data-access-and-consent?utm_source=linkedin&utm_medium=organic_social&utm_content=cabfa9dc-eac7-4393-a386-329efc252d59)
