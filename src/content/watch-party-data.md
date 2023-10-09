@@ -8,7 +8,7 @@ coverIcon: "images/group.svg"
 iconLight: "images/group-light.svg"
 ---
 
-**I helped design a watch party experience - including a new way for user's to safeguard and manage the data they collect along the way.**
+I helped design a watch party experience - including a new way for user's to safeguard and manage the data they collect along the way.
 
 ![GATSBY_EMPTY_ALT](images/watch-party-data/together_data_pod_hero_hoz.png)
 
