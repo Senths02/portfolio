@@ -9,6 +9,7 @@ iconLight: "images/group-light.svg"
 ---
 
 I helped design a watch party experience - including a new way for user's to safeguard and manage the data they collect along the way.
+<br>
 
 ![GATSBY_EMPTY_ALT](images/watch-party-data/together_data_pod_hero_hoz.png)
 
@@ -19,7 +20,7 @@ I helped design a watch party experience - including a new way for user's to saf
 <details>
 <summary>My role</summary>
 
->\#UX \#UI \#VisualDesign \#UXA \#InformationDesign
+<!-- >\#UX \#UI \#VisualDesign \#UXA \#InformationDesign -->
 
 ### Overseeing craft and deliverables
 When the UX Designer overseeing craft and deliverables had to temporarily leave the project, I was asked to fill in.
@@ -209,6 +210,8 @@ The designs would be tested with the audience through an online community and a 
 >- BBC Together (a watch party service)
 >- Data Pod (for managing your data)
 
+<br>
+
 The team identified two points of friction:
 1. The Data Pod set-up process
 2. The navigation
@@ -319,7 +322,7 @@ I mapped the content structure for the pilot's navigation to determine where a D
 
 <br>
 
-The result was a more balanced structure to give both services room to serve their distinct functions, while sharing the same interface. 
+>The result was a more balanced structure to give both services room to serve their distinct functions, while sharing the same interface. 
 
 Taking the Data Pod out of BBC Together also reduced complexity by removing a layer of navigation.
 <br>
@@ -342,6 +345,8 @@ Considerations included:
 - The mechanics of navigating between the two services
 
 ![Visual hierarchy](images/watch-party-data/visual_hierarchy.png)
+
+<br>
 
 ### Information gathering
 I looked at how users currently moved between services and accounts by identifying patterns in streaming services, social media, and operating systems. 
@@ -491,6 +496,8 @@ All the options I presented to the team were seen as an improvement, but the tab
 
 ![Tabs on home screen](images/watch-party-data/changed_home.png)
 
+<br>
+
 </details>
 <br>
 <details>
@@ -517,8 +524,8 @@ I collated sketches and mock-up’s as a starting point.
 ![Leading with BBC Together](images/watch-party-data/pockets_of_pod.png)
 
 <br>
+
 The content and structure aligned with the second approach. 
-<br>
 <br>
 
 ### Outcome
@@ -1104,7 +1111,7 @@ In companies the size of the BBC, change is a long-term process. The technical a
 >The project has helped platform the conversation and pave the way for more ethical data practices.
 
 An overview of the pilot and technology can be found in the following BBC News segment.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rhHsNFzvaUU?si=9ORRkmbS73Y6sThJ&amp;start=160" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youtube-video" src="https://www.youtube.com/embed/rhHsNFzvaUU?si=9ORRkmbS73Y6sThJ&amp;start=160" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>

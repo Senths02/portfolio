@@ -18,12 +18,12 @@ html {
       margin: 1.5rem 2.5rem;
 
       > *, p, ul, li, ol {
-        font-weight: 300;
+        font-weight: 400;
       }
   
     }
 
-    p, ul, li, button {
+    p, ul, li {
       font-size: .95rem;
       letter-spacing: .08rem;
       line-height: 1.4rem;
@@ -63,11 +63,14 @@ html {
     }
 
     button {
+      font-size: .95rem;
+      letter-spacing: .08rem;
+      line-height: 1.4rem;
       min-height: 48px;
       background-color: transparent;
       border: 1.5px solid $dark-blue;
       color: $dark-blue;
-      letter-spacing: .07rem;
+      font-weight: 400;
       padding: 0 1rem;
       margin: 1rem 0;
       cursor: pointer;
@@ -189,4 +192,10 @@ html {
 
       }
     }
+
+    .youtube-video {
+      aspect-ratio: 16 / 9;
+      width: 100%;
+    }
+    
   }
