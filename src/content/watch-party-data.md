@@ -168,7 +168,7 @@ But the team had identified several user groups (and combinations thereof). Incl
 
 <br>
 
-![Audience overview](images/watch-party-data/audience.png)
+![Audience](images/watch-party-data/audience.png)
 
 <br>
 
@@ -931,7 +931,7 @@ As the Data Pod identity developed, I worked with the team to align the Data Pod
 <br>
 
 #### Contacts data
-During the pilot, user's could save each other as contacts, and the Data Pod area provided a list of them.
+During the pilot, users could save each other as contacts, and the Data Pod area provided a list of them.
 
 After working with the Producer to optimise the UI and visual design, we used _'Version 1'_ in research.
 
