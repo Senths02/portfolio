@@ -1103,6 +1103,7 @@ In companies the size of the BBC, change is a long-term process. The technical a
 
 An overview of the pilot and technology can be found in the following BBC News segment.
 <iframe class="youtube-video" src="https://www.youtube.com/embed/rhHsNFzvaUU?si=9ORRkmbS73Y6sThJ&amp;start=160" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </details>
 <br>
 
