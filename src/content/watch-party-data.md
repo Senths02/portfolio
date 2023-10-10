@@ -142,7 +142,7 @@ Including:
 - The ability to see what data is used and for what purpose
 - How the experience changes when managing data _eg.improving inferences_
 
-Research also indicated that many user's would need insight into current data practices, in order to understand and evaluate the proposition.
+Research also indicated that many users would need insight into current data practices, in order to understand and evaluate the proposition.
 <br>
 
 ![Users' provide insight](images/watch-party-data/user_needs.png)
@@ -511,7 +511,7 @@ At this point my focus was split between projects, but I assisted with the UI an
 >1. Giving both services equal weight
 >2. Leading with BBC Together, with some weight to the Data Pod
 
-I collated sketches and mock-up’s as a starting point.
+I collated sketches and mock-ups as a starting point.
 <br>
 
 #### 1. Equal weight
@@ -606,7 +606,7 @@ Thankfully, many of the structural challenges were unique to this pilot and the 
 ### Technical holes
 During a watch party, the user was either a host or invitee.
 
->I was tasked with two problems:
+>There were two problems:
 >
 >1. On the invitation screen, the invitee had the option to send or receive contact requests, which wasn't technically possible.
 >2. The invitation screen was also identical to the waiting area, when they should be visually distinct.
@@ -665,7 +665,7 @@ However, after searching for user needs, I couldn't find any for the waiting are
 ### A moment of joy
 I used an empathy map to understand the type of content an invitee might require on a watch party invitation. 
 
->Receiving an invitation to a party is usually a smiling moment. I styled the screen with this mind.
+>Receiving an invitation to a party is usually a moment of joy. I styled the screen with this mind.
 
 After discussions with the team around feasibility, I sketched ideas for the visual design. 
 
@@ -942,7 +942,7 @@ I then simplified the screen for the build in _'Version 2'_. At this point, the 
 
 <br>
 
-By saving someone as a contact, user's were essentially creating a connection between their Pod's. 
+By saving someone as a contact, users were essentially creating a connection between their Pod's. 
 
 >I used the pill shape, which I introduced in previous screens, to represent a Pod. This time, I explored a more discrete style with potential interaction. 
 
@@ -1042,7 +1042,7 @@ I attended research planning sessions to provide feedback and understand the req
 
 The interactive prototypes were used in moderated research sessions. I supplied the link to the prototypes and was on hand to make notes and make any necessary adjustments.
 
-We also used static images for feedback from an online community. And in-between research, we would conduct rapid testing.
+We also used static images for feedback from an online community. And for rapid testing, which we would conduct in-between larger research studies.
 <br>
 
 ### Analysing feedback
@@ -1084,6 +1084,7 @@ Unfortunately I wasn't involved in the project for the final iterations and deli
 Some designs didn't make the final experience, but priorities were met and the pilot went live for over 6 months.
 
 </details>
+<br>
 <br>
 
 ## 🎀 Wrapping up
