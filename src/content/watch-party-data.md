@@ -22,8 +22,8 @@ A watch party experience - for users to explore a new way of safeguarding and ma
 
 <!-- >\#UX \#UI \#VisualDesign \#UXA \#InformationDesign -->
 
-### Overseeing craft and deliverables
-I stepped into the UX Designer's role overseeing craft and deliverables during their absence.
+### Overseeing the UI
+I stepped into the UX Designer's role overseeing the UI during their absence.
 
 This project was part of a wider initiative and I had been involved with previous work. 
 
