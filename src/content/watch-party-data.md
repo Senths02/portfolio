@@ -8,7 +8,7 @@ coverIcon: "images/group.svg"
 iconLight: "images/group-light.svg"
 ---
 
-Creating a watch party experience - for users to explore a new way of safeguarding and managing the data they collect along the way.
+A watch party experience - for users to explore a new way of safeguarding and managing the data they collect along the way.
 <br>
 
 ![GATSBY_EMPTY_ALT](images/watch-party-data/together_data_pod_hero_hoz.png)
