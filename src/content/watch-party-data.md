@@ -135,7 +135,7 @@ The pilot would act as a proof of concept to stimulate progress across portfolio
 #### User needs: personal data
 Insight from users would be fundamental to developing standards in the public's interest.
 
->Research participants from previous work saw high-level value in the concept and technology. This pilot would allow user's to determine tangible value by exploring some of the features in more depth.
+>Research participants from previous work saw high-level value in the concept and technology. This pilot would allow users to determine tangible value by exploring some of the features in more depth.
 
 Including:
 - How a Data Pod can enhance privacy
@@ -665,7 +665,7 @@ However, after searching for user needs, I couldn't find any for the waiting are
 ### A moment of joy
 I used an empathy map to understand the type of content an invitee might require on a watch party invitation. 
 
->Receiving an invitation to a party is usually a moment of joy. I styled the screen with this mind.
+>Receiving an invitation to a party is usually a moment of joy. I styled the screen with this in mind.
 
 After discussions with the team around feasibility, I sketched ideas for the visual design. 
 
@@ -968,7 +968,7 @@ The global brand was used in the original set-up process. After the content was 
 
 >The screen was simple and brief, so user's could move on with the experience.
 
-I used the thin border and introduced iconography from the core experience, but with the intention of keeping focus on the content.
+I used the thin border and introduced iconography from the core experience, with the intention of keeping focus on the content.
 <br>
 
 ![BBC Together branded intro](images/watch-party-data/together_branded_intro.png)
@@ -1042,7 +1042,7 @@ I attended research planning sessions to provide feedback and understand the req
 
 The interactive prototypes were used in moderated research sessions. I supplied the link to the prototypes and was on hand to make notes and make any necessary adjustments.
 
-We also used static images for feedback from an online community. And for rapid testing, which we would conduct in-between larger research studies.
+We also used static images for feedback from an online community, and for rapid testing (in-between larger research studies).
 <br>
 
 ### Analysing feedback
@@ -1073,7 +1073,7 @@ We began developing a process for signing designs off, including:
 #### Multiple workstreams
 We had a single file for several workstreams, (including research stimulus), which caused some confusion for Engineers. 
 
-I spent some time labelling and annotating designs and prototypes, which prevented some confusion. 
+I spent some time labelling designs and prototypes, which prevented some confusion. 
 
 The general practice now is to create a separate file for the technical build.
 <br>
