@@ -8,7 +8,7 @@ coverIcon: "images/group.svg"
 iconLight: "images/group-light.svg"
 ---
 
-I helped design a watch party experience - including a new way for users to safeguard and manage the data they collect along the way.
+Creating a watch party experience - for users to explore a new way of safeguarding and managing the data they collect along the way.
 <br>
 
 ![GATSBY_EMPTY_ALT](images/watch-party-data/together_data_pod_hero_hoz.png)
@@ -23,11 +23,11 @@ I helped design a watch party experience - including a new way for users to safe
 <!-- >\#UX \#UI \#VisualDesign \#UXA \#InformationDesign -->
 
 ### Overseeing craft and deliverables
-I stepped into the UX Designer's role overseeing craft and deliverables during their absence (in the early stages of development).
+I stepped into the UX Designer's role overseeing craft and deliverables during their absence.
 
 This project was part of a wider initiative and I had been involved with previous work. 
 
-I made improvements to the experience, while maintaining consistency across work streams. I also supported collaboration on designs in Figma.
+The designs were in the early stages of development and I worked in a multi-disciplinary team to make improvements. 
 <br>
 
 ![Conveying complexity](images/watch-party-data/conveying_complexity.png)
@@ -85,7 +85,7 @@ Essentially:
 <summary>Discovery</summary>
 
 ### Understanding work to date
-My understanding of the work to date was built by listening to people in the team and reading documentation. 
+My understanding of the work to date was built through active listening and reading documentation. 
 
 >The rest of the team had collated research insights, analysed competitor watch party services, defined requirements, and designed a first pass.
 
@@ -1102,6 +1102,8 @@ In companies the size of the BBC, change is a long-term process. The technical a
 >The project has helped platform the conversation and pave the way for more ethical data practices.
 
 An overview of the pilot and technology can be found in the following BBC News segment.
+<br>
+
 <iframe class="youtube-video" src="https://www.youtube.com/embed/rhHsNFzvaUU?si=9ORRkmbS73Y6sThJ&amp;start=160" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </details>
