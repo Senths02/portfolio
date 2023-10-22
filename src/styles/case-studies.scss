@@ -58,7 +58,7 @@
 // }
 
 .logo {
-    width: 10em;
+    width: 10rem;
   }
 
 .back-link {
@@ -66,7 +66,7 @@
     height: 48px;
     line-height: 48px;
     text-align: center;
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: 300;
 }
 
@@ -95,9 +95,9 @@
     list-style-type: none;
 
     .cs-menu-item {
-        font-size: 1.2em;
+        font-size: 1rem;
         margin: 0;
-        padding: .8em;
+        padding: .8rem;
 
         .cs-menu-button {
             height: 48px;
@@ -142,7 +142,7 @@
 }
 
 summary {
-    // font-size: 1.2rem;
+    font-size: 0.95rem;
     font-weight: 300;
     letter-spacing: .08rem;
     cursor: pointer;

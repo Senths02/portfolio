@@ -12,9 +12,13 @@ html {
     font-family: $font-family-sans; 
     text-align: center;
 
+    body {
+      font-size: 62.5%;
+    }
+
     blockquote {
       border-left: 3px solid #EB105D;
-      padding: 0 0.8em;
+      padding: 0 0.8rem;
       margin: 1.5rem 2.5rem;
 
       > *, p, ul, li, ol {
@@ -24,38 +28,38 @@ html {
     }
 
     p, ul, li {
-      font-size: .95rem;
+      font-size: 0.95rem;
       letter-spacing: .08rem;
       line-height: 1.4rem;
       font-weight: 300;
     }
 
     h1 {
-      font-size: 1.5rem;
+      font-size: 1.4rem;
       font-weight: 400;
       letter-spacing: .08rem;
     }
 
     h2 {
-      font-size: 1.2rem;
+      font-size: 1.3rem;
       font-weight: 400;
       letter-spacing: .08rem;
     }
 
     h3 {
-      font-size: 1.1rem;
+      font-size: 1.2rem;
       font-weight: 400;
       letter-spacing: .08rem;
     }
 
     h4 {
-      font-size: 1rem;
+      font-size: 1.1rem;
       font-weight: 400;
       letter-spacing: .08rem;
     }
 
     .home-title {
-      font-size: 3em;
+      font-size: 3rem;
     }
 
     .header {
@@ -85,7 +89,7 @@ html {
 
     a:link[aria-current = 'page'] {
       text-decoration: underline;
-      text-underline-offset: .3em;
+      text-underline-offset: .3rem;
     }
 
     a:link {
@@ -99,14 +103,14 @@ html {
     a:visited {
       color: $dark-blue;
       text-decoration: underline;
-      text-underline-offset: .3em;
+      text-underline-offset: .3rem;
     }
     
     /* mouse over link */
     a:hover {
       color: $dark-blue;
       text-decoration: underline;
-      text-underline-offset: .3em;
+      text-underline-offset: .3rem;
     }
       
     /* mouse down */
@@ -114,18 +118,18 @@ html {
       color: $dark-blue;
       font-weight: 300;
       text-decoration: underline;
-      text-underline-offset: .3em;
+      text-underline-offset: .3rem;
     }
 
     .active {
       color: $dark-blue;
       font-weight: 300;
       text-decoration: underline;
-      text-underline-offset: .3em;
+      text-underline-offset: .3rem;
     }
 
     [href]:focus:not(:active) {
-      outline: $dark-blue .1em solid;
+      outline: $dark-blue .1rem solid;
     }
 
     .vh {
@@ -146,7 +150,7 @@ html {
       padding: 2rem 0 0 0;
       
       .logo {
-        width: 10em;
+        width: 10rem;
       }
 
       .home {
@@ -164,9 +168,9 @@ html {
         list-style-type: none;
         
         .navItem {
-          font-size: 1.2em;
+          font-size: 1.2rem;
           margin: 0;
-          padding: .8em;
+          padding: .8rem;
         }
 
       }
@@ -197,5 +201,5 @@ html {
       aspect-ratio: 16 / 9;
       width: 100%;
     }
-    
+
   }
