@@ -43,8 +43,8 @@ My role involed:
 ### Core line-up
 - Head of Flexible Media
 - Project Manager
-- 4 - 7 Engineers
 - Head of Architecture
+- 4 - 7 Engineers
 - UX Principal
 - UX Designer
 
@@ -211,7 +211,7 @@ After looking at competitor services and talking to football fans, I:
 - Altered the interaction for the chapters, so they became an extension of the scrub bar
 <br>
 
-![Before and after](images/world-cup-moments/key_moment_markers.png)
+![Before and after](images/world-cup-moments/key_match_moments.png)
 
 <br>
 
@@ -299,7 +299,7 @@ For the key moments, we discovered that a carousel or list wouldn't be possible 
 
 Instead we would use markers to identify key moments. We discussed potential logic to prevent the markers overlapping. 
 
-Crucially, we realised that a mobile experience was more achievable than initially thought. Particularly with stats showing significant mobile usage around midday.
+Crucially, we realised that a mobile experience was more achievable than initially thought. Particularly with stats showing significant mobile usage.
 <br>
 
 #### Information panels
@@ -316,18 +316,23 @@ The designs used the light mode colour palette. We decided to change this to dar
 <summary>V1</summary>
 
 ### Prototypes
->I created a set of prototypes with the feedback and discussions in mind. 
+>I created a set of prototypes to demonstrate the first design iteration - with feedback from the team in mind. 
 
-Version 1 used markers to indicate key moments on the timeline. And a set of tabs in the top right of the media player to access the information panels.
+The prototypes demonstrated the user journey during a match from build up to post-match content. 
 
-I added micro animations to smooth out the experience. And for the prototypes, included video of a football match to demonstrate the user journey.
+In version 1, We used markers to indicate key moments on the timeline. And a set of tabs in the top right of the media player for access to the information panels.
 <br>
 
 ![Version 1 designs](images/world-cup-moments/v1_desktop.png)
 
 <br>
 
->I also proposed:
+For demonstration purposes, I included video of a football match and a trigger for skipping to the end. I also added micro animations to smooth out the experience. 
+
+Before creating the prototypes I sketched out the user journey with empathy mapping to identify any additional design considerations. 
+<br>
+
+>In addition to the above, I proposed:
 >
 >1. An experience for small screen sizes
 >2. Ways to obtain direct feedback from users
@@ -337,7 +342,7 @@ I added micro animations to smooth out the experience. And for the prototypes, i
 <br>
 
 #### 1. Small screen experience
-To adapt the experience for mobile, I removed the text labels from the information tabs and markers. I also introduced pages to the line-ups panel and arrows to navigate between them.
+To adapt the experience for smaller screens, I removed the chapters, and text labels from the information tabs and markers. I also introduced pages to the line-ups panel and arrows to navigate between them.
 <br>
 
 ![Version 1 mobile designs](images/world-cup-moments/v1_mobile.png)
@@ -347,9 +352,9 @@ To adapt the experience for mobile, I removed the text labels from the informati
 #### 2. Direct feedback options
 I suggested adding a way for users to provide feedback. 
 
-Initially, we thought this could be done through a survey. But later realised that it wasn't feasible to analyse the text responses in the available time. 
+Initially, we thought this could be done through a survey. But later realised that it wasn't feasible to analyse a large number of text responses. 
 
-I proposed the ability to provide a star rating, as this was functionality that existed in other areas of the BBC. 
+I proposed the ability to provide a star rating, as this was a component that existed in other areas of the BBC. 
 <br>
 
 ![Feedback options](images/world-cup-moments/feedback_options.png)
@@ -357,7 +362,11 @@ I proposed the ability to provide a star rating, as this was functionality that 
 <br>
 
 #### 3. No data to show
-During the build up to the match, there would be no data to show beyond line-ups. I mocked up options to set expectations. 
+During the build up to the match, there would be no data to show beyond line-ups. 
+
+For the key moments, I mocked up options to set expectations. Particularly as there was potential for the features to be missed. They were only available on hover or tap (like the rest of the media player UI). 
+
+For match stats, I mocked up the default behaviour used on BBC Sport at the time. 
 <br>
 
 ![No data options](images/world-cup-moments/v1_no_data_options.png)
@@ -365,50 +374,67 @@ During the build up to the match, there would be no data to show beyond line-ups
 <br>
 
 #### 4. Error message
-Fo potential errors, I mocked up a message with placeholder text. Later, it was decided to remove the plugin entirely in this case.
+For potential errors, I mocked up a message with placeholder text. (Later, it was decided to remove the plugin entirely in these cases).
 <br>
 
 ![Mock error message](images/world-cup-moments/v1_mock_error_message.png)
 
+<br>
+
+### Screen reader experience
+In addition to the visual prototypes, I documented the screen reader experience and requested a dedicated session to focus on the unique requirements.
+<br>
+
+![Version 1 extract](images/world-cup-moments/screenreader_doc_extract.png)
+
+<br>
+
+### Feedback
+I presented the prototypes and screen reader experience to the team for discussion. There were a few minor interactions that weren't possible for this launch, but overall the reception was positive.
+
+Most of the feedback included iconography and text changes. There were also requests for additional features, such as player statistics in the line-ups panel. 
+
 </details>
 
 <br>
 <br>
 
-## 📣 Refinement
+## 📣 Research & refinement
 
 <details>
-<summary>Feedback</summary>
+<summary>UI & interaction</summary>
 
 ### 1:1 sessions
+To gather feedback from football fans, I set up four 1:1 sessions. 
+
+>I asked participants to imagine they were about to stream a football match on BBC Sport. And prompted them for their thoughts as they went through the prototypes. 
+
+The feedback helped to refine the interaction. I removed the pagination on the information panels, as the preference was unanimously to scroll. And made the ability to scroll clearer. 
+
+The feedback also gave us more confidence in the iconography, text changes, and designs for smaller screens (which couldn't display the full experience).
+
+>In addition to testing the UI and interaction design, I also asked participants which key moments and stats they expected to find. 
+
+I sent out a survey following these sessions to gather more data that could inform the content.
 
 <br>
-
-### Survey 
-
-#### Top 5 stats
-
-<br>
-
-#### Iconography
-
-<br>
-
 </details>
 
 <br>
 
 <details>
-<summary>Adjustments</summary>
+<summary>Content preferences</summary>
 
-### The screenreader experience
+### Survey 
+>I created a survey (Google form) to ask respondents about their viewing habits, preferred key moments, and preferred match stats. 
 
+Consulting with the UX Principal, and a Senior User Researcher helped to refine the wording and formatting. 
+
+We used a card sort style to understand preferences and received 36 responses. 
+
+With previous research from BBC Sport, the data gave us enough confidence to prioritise certain key moments and match stats. Particularly on mobile, where space was limited.
 <br>
 
-### Team name
-
-
-<br>
 </details>
 
 <br>
@@ -420,6 +446,16 @@ Fo potential errors, I mocked up a message with placeholder text. Later, it was 
 <summary>Delivery</summary>
 
 ### Assets
+>I liaised with the Project Manager and Engineers to deliver the necessary assets. I was also on hand for any questions related to the interaction. 
+
+Fortunately, there were no big surprises. However, the Engineers had begun work on the front-end earlier than anticipated. I refined iconography for the key moment markers in parallel.
+
+Some icons were established and used on BBC Sport, but others (like the icons for missed and scored penalties) required custom work. 
+
+The Project Manager and I looked at competitor services to optimise familiarity for audiences. And I made sure they aligned with the existing icons and style guide.
+<br>
+
+![Key moment markers](images/world-cup-moments/key_moment_markers.png)
 
 <br>
 </details>
@@ -429,11 +465,25 @@ Fo potential errors, I mocked up a message with placeholder text. Later, it was 
 <details>
 <summary>Front-end support</summary>
 
-### Re-factoring the panels
+### Javascript & CSS
+>As the Engineering team were low on resource, I offered to help with the front-end development.
+
+The existing information panels relied somewhat on third-party code. My first task was to refactor the panels so they used vanilla Javascript and CSS. 
+
+I then worked on refining the CSS and accessibility for the different breakpoints, including:
+
+- Implementing the star rating functionality
+- Adjusting the text hierarchy in line with design guidelines
+- Adding some player stats to the line-ups panel
+- Ensuring the tab states were available to screen readers
+- Adding alt text for screen readers
+- Ensuring colours provided enough contrast
 
 <br>
 
-### Adding a star rating component
+![Star rating](images/world-cup-moments/star_rating.png)
+
+<br>
 
 </details>
 
@@ -442,10 +492,17 @@ Fo potential errors, I mocked up a message with placeholder text. Later, it was 
 <summary>QA</summary>
 
 ### Testing a live experience
+>As live events were required for accurate testing, we conducted tests during the Women's Super League and FA Cup (before the start of the World Cup).
+
+I contacted the Assistive Technology team to help with improving accessibility. 
+
+After setting up a meeting to go through the project and general accessibility considerations, I asked the Tester to attend one of the live test events. They provided a summary of their findings, which we used to make the experience more accessible. 
+
+We all tested the experience across multiple devices and provided screenshots of our findings. 
+
+The results helped to define tasks and next steps for implementation.
 
 <br>
-
-### Accessibility audit
 
 </details>
 
@@ -458,6 +515,12 @@ Fo potential errors, I mocked up a message with placeholder text. Later, it was 
 <summary>Launch</summary>
 
 ### The live experience
+We initially considered an A/B test, but in the end, the experimental features went live to the entire BBC Sport audience. 
+
+Engineers in BBC Sport were on hand to monitor all products and tools, including the experimental plugin, during the live World Cup matches.
+<br>
+
+![Live features](images/world-cup-moments/live_features.png)
 
 <br>
 
@@ -469,11 +532,51 @@ Fo potential errors, I mocked up a message with placeholder text. Later, it was 
 <summary>Performance</summary>
 
 ### Quantitative
+The features had over 950,000 unique users (an average of 47,000 users per game), and 30% returned to use the features again. 
+
+>Over 16,000 users rated the experience, with an average of 4.1 stars.
 
 <br>
 
-### Human values 
+### Qualitative
+To understand preferences on a deeper level, Researchers in R&D used a [Human Values framework](https://humanvalues.io) to collate qualitative insights.
 
+They interviewed a diverse group of 12 participants 4 times over the course of the World Cup.
+
+>Overall, participants appreciated the ability to consume match content while honouring other commitments. 
+
+In addition to reducing screen time, while consuming match content, Researchers found there was a positive impact in:
+
+- Connecting with others
+- Pursuing pleasure
+- Having autonomy
+
+In addition, participants provided us with valuable feedback on the interaction, UI, and data visualisations to develop the features further.
+<br>
+
+</details>
+
+<br>
+<details>
+<summary>Outcome</summary>
+
+### Value for all
+
+>The BBC has been on a mission to create a positive impact with digital experiences - this project demonstrated the ability for flexible media to do just that.
+
+The response from this project was overwhelmingly positive - from both audiences and BBC staff. 
+
+There have been several projects following this success, including 'Wing Watch' for Winter Watch bird feeder cameras, and Eurovision. 
+
+>Flexible media has been transitioning fully from R&D to the product space, and there are plans to develop the features for use across the BBC estate, including iPlayer.
+
+<br>
+
+### Personal development
+
+>Personally, I found working on this project a joy. I'm proud to have been part of a team, that made a big impact. 
+
+It was a great opportunity to learn more about the strategic elements that bring projects like this to life. And I was able to flex multiple design muscles, aswell as improve my coding skills. 
 <br>
 
 </details>
