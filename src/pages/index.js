@@ -15,7 +15,7 @@ const IndexPage = () => {
             <p>Hello,<br/>I'm a Designer</p> 
             
             <hr aria-hidden="true" className="solid"></hr>
-            <p>After working on digital experiences for over 6 years i've learnt to value:</p>
+            <p>After working on digital experiences for over 8 years i've learnt to value:</p>
             <p>Empathy-driven approaches <br/>for long-term solutions</p>
             <p>Being flexible with <br/> tools and technologies</p>
             <p>A playful ethos for innovation</p>

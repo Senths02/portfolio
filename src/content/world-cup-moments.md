@@ -109,7 +109,7 @@ In addition, the Designers had:
 <br>
 
 ### Business requirements
-Flexible media was one of 5 R&D workstreams identified as an enabler for achieving long term growth. 
+>Flexible media was one of 5 R&D workstreams identified as an enabler for achieving long term growth. 
 
 The workstreams were identified as part of an OKR to increase experimentation and advance innovation across the product space.
 
@@ -147,11 +147,11 @@ After discussing it with the team, I considered smaller screen sizes in the expl
 <br>
 
 ### The media player
-The idea was to create a plugin for the BBC's standard media player (which was used across the estate). 
+>The idea was to create a plugin for the BBC's standard media player (which was used across the estate). 
 
->The plugin would not be able to affect the existing UI and the enhancements would be layered on top. 
+The plugin would not be able to affect the existing UI and the enhancements would be layered on top. 
 
->There were also two versions of the media player. We could only support the older version. 
+There were also two versions of the media player. We could only support the older version. 
 
 This meant none of the improvements that were made to the media player were available. 
 
@@ -175,11 +175,12 @@ There was also a desire to launch the enhancements on BBC iPlayer, which was she
 <br>
 
 ### The design process
->I collated findings in a Figma file, which I shared with the working group. 
+I collated findings in a Figma file, which I shared with the working group. 
 
 The file outlined the design process _(ie. discovery & understanding, ideation & definition, and iterations)_ for the uninitiated. 
 
-I made the file and all the work in progress available for anyone to view, collaborate, and feed back on.
+>I made the file and all the work in progress available for anyone to view, collaborate, and feed back on.
+
 <br>
 
 ![Discovery and understanding](images/world-cup-moments/discovery_and_understanding.png)
@@ -492,9 +493,9 @@ I then worked on refining the CSS and accessibility for the different breakpoint
 <summary>QA</summary>
 
 ### Testing a live experience
->As live events were required for accurate testing, we conducted tests during the Women's Super League and FA Cup (before the start of the World Cup).
+As live events were required for accurate testing, we conducted tests during the Women's Super League and FA Cup (before the start of the World Cup).
 
-I contacted the Assistive Technology team to help with improving accessibility. 
+>I contacted the Assistive Technology team to help with improving accessibility. 
 
 After setting up a meeting to go through the project and general accessibility considerations, I asked the Tester to attend one of the live test events. They provided a summary of their findings, which we used to make the experience more accessible. 
 
@@ -545,13 +546,13 @@ They interviewed a diverse group of 12 participants 4 times over the course of t
 
 >Overall, participants appreciated the ability to consume match content while honouring other commitments. 
 
-In addition to reducing screen time, while consuming match content, Researchers found there was a positive impact in:
+In addition to reducing screen time, while consuming match content, researchers found there was a positive impact in:
 
 - Connecting with others
 - Pursuing pleasure
 - Having autonomy
 
-In addition, participants provided us with valuable feedback on the interaction, UI, and data visualisations to develop the features further.
+Participants also provided us with valuable feedback on the interaction, UI, and data visualisations, to develop the features further.
 <br>
 
 </details>
@@ -562,21 +563,21 @@ In addition, participants provided us with valuable feedback on the interaction,
 
 ### Value for all
 
->The BBC has been on a mission to create a positive impact with digital experiences - this project demonstrated the ability for flexible media to do just that.
+The BBC has been on a mission to create a positive impact with digital experiences - this project demonstrated the ability for flexible media to do just that.
 
-The response from this project was overwhelmingly positive - from both audiences and BBC staff. 
+>The response from this project was overwhelmingly positive - from both audiences and BBC staff. 
 
-There have been several projects following this success, including 'Wing Watch' for Winter Watch bird feeder cameras, and Eurovision. 
+There have been several projects following this success, including experiences for Winter Watch bird feeder cameras, and Eurovision. 
 
->Flexible media has been transitioning fully from R&D to the product space, and there are plans to develop the features for use across the BBC estate, including iPlayer.
+Flexible media has been transitioning fully from R&D to the product space, and there are plans to develop the features for use across the BBC estate, including iPlayer.
 
 <br>
 
 ### Personal development
 
->Personally, I found working on this project a joy. I'm proud to have been part of a team, that made a big impact. 
+>Personally, I found working on this project a joy. I'm proud to have been part of a team, that made such a big impact at the BBC. 
 
-It was a great opportunity to learn more about the strategic elements that bring projects like this to life. And I was able to flex multiple design muscles, aswell as improve my coding skills. 
+I was able to steer the UX, aswell as improve my coding skills. It was also a great opportunity to learn more about the strategic elements that bring projects like this to life. 
 <br>
 
 </details>
