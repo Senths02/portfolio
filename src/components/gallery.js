@@ -17,7 +17,7 @@ const Gallery = ({ covers }) => {
                     // console.log(project.cover.publicURL)
                     <div className={"gallery-item " + project.specialsize} key={project.id} >
                         {(project.title)? <h2 className='image-title'>{project.title}</h2>: null}
-                        {(project.subtitle) ? <p className='image-subtitle'>{project.subtitle}</p> : null }
+                        {/* {(project.subtitle) ? <p className='image-subtitle'>{project.subtitle}</p> : null } */}
                         <GatsbyImage className={"gallery-image " + project.specialsize} image={image} alt={project.description} loading="lazy"/>
                         <p className="image-caption" >{project.caption}</p>
                         {(project.process)? <p className="contributions">{project.process.contributions}</p>: null}

@@ -177,7 +177,7 @@ html {
 
     }
     .breadcrumb-nav {
-      margin: 0 1rem 1rem 1rem;
+      margin: 0.3rem 1rem 1rem 1rem;
       padding: 0;
 
       .breadcrumbGroup {
@@ -187,6 +187,11 @@ html {
         padding: 0;  
         margin: 0;   
         list-style-type: none;
+      
+      .crumb {
+        font-size: 0.8rem;
+        letter-spacing: 0.04rem;
+      }
 
         .breadcrumb-divider {
           // font-size: 1.2em;

@@ -41,6 +41,7 @@ const CaseStudyMenu = () => {
                       <button className="cs-menu-button">
                         <img className="cs-menu-icon" alt="" src={cs.frontmatter.coverIcon.publicURL}/>
                         <img className="cs-menu-icon" alt="" src={cs.frontmatter.iconLight.publicURL}/>
+                        <p>{cs.frontmatter.slug}</p>
                       </button>
                     </Link>
                   </li>

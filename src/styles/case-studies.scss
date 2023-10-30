@@ -1,10 +1,14 @@
+.cs {
+ margin-top: 3rem;
+}
+
 .cs-thumbs-container {
     display: flex;
     align-items: stretch;
     gap: 1rem;
     flex-wrap: wrap;
     justify-content: center;
-    margin: 3rem 12rem 2rem 12rem;
+    margin: 1.5rem 12rem 3rem 12rem;
 }
 
 .cs-thumb {
@@ -12,7 +16,7 @@
     flex-grow: 1;
     flex-basis:  250px;
     // margin: 0 1rem 1rem 1rem;
-    padding: 1rem;
+    padding: 1rem 1rem 1.5rem 1rem;
     display: table;
 }
 
@@ -158,7 +162,7 @@ summary {
 
 @media screen and (max-width: 992px) {
     .cs-thumbs-container {
-        margin: 3rem 5rem 2rem 5rem;
+        margin: 1.5rem 5rem 4rem 5rem;
     }
     .cs-content {
         margin: 0rem 3rem 3rem 3rem;
@@ -167,7 +171,7 @@ summary {
 
 @media screen and (max-width: 768px) {
     .cs-thumbs-container {
-        margin: 3rem 1rem 2rem 1rem;
+        margin: 1.5rem 1rem 3rem 1rem;
     }
     .cs-content {
         margin: 0rem 0rem 3rem 0rem;

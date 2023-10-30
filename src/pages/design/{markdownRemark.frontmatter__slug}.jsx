@@ -12,7 +12,6 @@ export default function CaseStudyTemplate({
     return (
         <div className="cs-content-container">
           <Layout>
-          <CaseStudyMenu></CaseStudyMenu>
           <nav role="navigation" aria-label="breadcrumbs" className="breadcrumb-nav">
               <div>
                 <ol className="breadcrumbGroup">
@@ -23,10 +22,12 @@ export default function CaseStudyTemplate({
               </div>
           </nav>
           <div className="cs-content">
+          <img className="cs-thumb-icon" alt="" src={frontmatter.coverIcon.publicURL}/>
           <p className="cs-subtitle">{frontmatter.company} | {frontmatter.date}</p>
             <h1 className="cs-title">{frontmatter.title}</h1>
             <div className="cs-markdown" dangerouslySetInnerHTML={{ __html: html }}></div>
           </div>
+          {/* <CaseStudyMenu></CaseStudyMenu> */}
           </Layout>
         </div>
     )
