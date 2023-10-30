@@ -199,7 +199,7 @@ The file outlined the design process _(ie. discovery & understanding, ideation &
 ### Existing work
 For the key match moments and chapters, there were existing designs that were created 8 years before this project. There were also some designs created more recently by the Project Manager. 
 
->I mocked-up ideas that aligned closely with the these designs, but also provided alternatives.
+>I mocked-up ideas that aligned closely with the designs, but also provided alternatives.
 
 <br>
 
