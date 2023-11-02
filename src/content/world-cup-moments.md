@@ -97,14 +97,9 @@ The goal for this project was to enhance coverage of the World Cup - to provide 
 ### User needs
 >I met with the Senior UX Designer in BBC Sport to learn more about audience needs and work in progress. 
 
-Research outcomes revealed a need for more in-depth match statistics. Specifically for important matches like the World Cup, and when attention was divided. Participants also expressed their preferred level of complexity.
+Research outcomes revealed a need for in-depth match statistics. Specifically for important matches like the World Cup, and when attention was divided. Participants also expressed their preferred level of complexity.
 
-In addition, the Designers had:
-
-- Made developments in the way scores and fixtures were communicated
-- Explored a dark mode, which suited immersive environments like the media player
-- Refined icons for familiarity
-- Explored a 'timeline' feature
+In addition, the Designers had made developments in the UI and iconography.
 
 <br>
 
@@ -152,10 +147,6 @@ After discussing it with the team, I considered smaller screen sizes in the expl
 The plugin would not be able to affect the existing UI and the enhancements would be layered on top. 
 
 There were also two versions of the media player. We could only support the older version. 
-
-This meant none of the improvements that were made to the media player were available. 
-
-There was also a desire to launch the enhancements on BBC iPlayer, which was shelved as iPlayer served users the newer version.
 <br>
 
 </details>
