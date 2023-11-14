@@ -3,19 +3,19 @@ slug: "/watch-party-data"
 prettySlug: "Watch party data"
 company: "BBC"
 date: "2022"
-title: "Developing the future of data privacy with a watch party audience"
+title: "Exploring the future of data privacy with a watch party audience"
 coverIcon: "images/group.svg"
 iconLight: "images/group-light.svg"
 ---
 
-A watch party experience - for users to explore a new way of safeguarding and managing the data they collect along the way.
+Watch party users could explore a new way of safeguarding and managing the data they collect along the way.
 <br>
 
 ![GATSBY_EMPTY_ALT](images/watch-party-data/together_data_pod_hero_hoz.png)
 
 <br>
 
-## 🖼 The scene
+## 📋 Crew
 
 <details>
 <summary>My role</summary>
@@ -26,10 +26,6 @@ A watch party experience - for users to explore a new way of safeguarding and ma
 >I stepped into the UX Designer's role overseeing the UI during their absence.
 
 The designs were in the early stages of development and I worked in a multi-disciplinary team to make improvements. 
-<br>
-
-![Conveying complexity](images/watch-party-data/conveying_complexity.png)
-
 <br>
 </details>
 <br>
@@ -47,24 +43,25 @@ The designs were in the early stages of development and I worked in a multi-disc
 - Product Manager
 - Project Manager
 
-<br>
 </details>
 <br>
+<br>
+
+## 🤩 Vision
 <details>
 <summary>Background</summary>
 
 ### The big picture
 When personal data is used to deliver rich, personalised services, it's not always clear to users how their data is collected and what happens with it.
-<br>
-
-![Standard practice](images/watch-party-data/standard_practice.png)
-
-<br>
 
 Some organisations, like the BBC, have been exploring human-centred alternatives, including [Personal Data Store technology](https://en.wikipedia.org/wiki/Personal_data_service).
-<br>
 
-### The technology
+</details>
+<br>
+<details>
+<summary>The technology</summary>
+
+### Personal Data Stores
 A Personal Data Store is decentralised to store data securely. 
 
 >Users would have increased visibility and control of their data. They'd decide who could access it to protect their online identity.
@@ -74,21 +71,22 @@ A Personal Data Store is decentralised to store data securely.
 </details>
 <br>
 <details>
-<summary>The project</summary>
+<summary>Objectives</summary>
 
-### Project objectives
+### Understanding value
 To improve practices around personal data, we needed to understand the value to users. 
 
 A pilot would demonstrate the capabilities of using Personal Data Stores to that end.
 
 >How might we enhance a BBC service safely and securely with a Personal Data Store?
 
+</details>
 <br>
+<details>
+<summary>The pilot</summary>
 
-### The pilot
-A watch party service called BBC Together was used for the pilot. 
-
->BBC Together was adapted to work with the current version of Personal Data Store technology (from [Inrupt](https://solidproject.org/)). 
+### Enhancing BBC Together
+>A watch party service called BBC Together, was adapted to work with the current version of Personal Data Store technology (from [Inrupt](https://solidproject.org/)). 
 
 Essentially:
 - Each user would have a Personal Data Store (Data Pod)
@@ -98,8 +96,11 @@ Essentially:
 
 </details>
 <br>
+<br>
+
+## 📸 Discovery 
 <details>
-<summary>Discovery</summary>
+<summary>Information gathering</summary>
 
 ### Understanding work to date
 My understanding of the work to date was built through active listening and reading documentation. 
@@ -111,10 +112,6 @@ My understanding of the work to date was built through active listening and read
 >- Stakeholder requirements
 >- Time limitations
 
-<br>
-
-![Understanding constraints](images/watch-party-data/discovery.png)
-
 </details>
 <br>
 <details>
@@ -125,7 +122,7 @@ This project formed part of a wider initiative to inform large scale change.
 
 >It was essential that the pilot fulfilled user needs, but we also needed to consider:
 >- Public interest
->- Business needs.
+>- Business needs
 
 <br>
 
@@ -147,9 +144,12 @@ The pilot would act as a proof of concept to stimulate progress across portfolio
 
 ![Scaling up](images/watch-party-data/scaling_up.png)
 
+</details>
 <br>
+<details>
+<summary>The audience</summary>
 
-#### User needs: personal data
+### Personal data
 >Insight from users would be fundamental to developing standards in the public's interest.
 
 Previous research found high-level value in the concept and technology. 
@@ -167,7 +167,7 @@ Including:
 
 <br>
 
-#### User needs: watch parties
+### Watch parties
 
 >The pilot was aimed at a watch party audience. 
 
@@ -186,7 +186,7 @@ We also knew that specific types of content (like stand-alone entertainment and 
 </details>
 <br>
 <details>
-<summary>One small step</summary>
+<summary>Project status</summary>
 
 ### Preparing for research
 I joined this project while a draft version of the pilot was being built. The plan was to iterate on the designs and prepare for in-depth research.
@@ -203,7 +203,7 @@ The designs would be tested with the audience through an online community and a 
 <br>
 <br>
 
-## 🏠 Challenge: A tale of two services
+## 🎬 Mission 01: A tale of two services
 
 <details>
 <summary>The problem</summary>
@@ -249,41 +249,28 @@ A tooltip highlighted the Data Pod on entry, but:
 </details>
 <br>
 <details>
-<summary>Finding the source of the problem</summary>
+<summary>Analysing the problem</summary>
 
 ### The hierarchy
-I looked at the navigation, while the Content Designer looked at the copy for the set-up process.
-
 After analysing the designs, it was clear there was a wider issue in the general hierarchy. 
 
 >The hierarchy was built for BBC Together, and restricted Data Pod content.
 
 Any focus on the Data Pod would seem out of place in a hierarchy built for BBC Together.
-<br>
 
-![Original hierarchy](images/watch-party-data/existing_sitemap.png)
-
-<br>
-
-#### The rationale
 To understand the existing approach, I looked at:
 - Research insights
 - User needs
 - Design intent
 
-The rationale for BBC Together taking priority was to:
-- Avoid deterring watch party users on entry
-- Focus on a single service to prevent cognitive load and context switching
-- Convey ambitions for the technology as a utility service
-
 <br>
 
 #### Conveying the future
-Unfortunately, there were limitations to conveying ambitions for the technology. 
+There was a desire to convey ambitions for the technology, but there were limitations.
 
-In the future, the Data Pod would be a separate product from the watch party service. 
+In the future, the Data Pod would be a separate product from the watch party service, which wasn't possible for the pilot. 
 
-This product would also be dedicated to meeting user needs that the pilot's hierarchy was restricting, including:
+A separate product would be dedicated to meeting user needs that the pilot's hierarchy was restricting, including:
 
 - A Data Pod set-up process
 - Information about the technology
@@ -296,9 +283,9 @@ This product would also be dedicated to meeting user needs that the pilot's hier
 </details>
 <br>
 <details>
-<summary>Defining the challenge</summary>
+<summary>The task</summary>
 
-### Task and success criteria
+### Success criteria
 >Access to the Data Pod needed to be clearer in the navigation without deterring watch party users. 
 
 Criteria for success included: 
@@ -306,23 +293,23 @@ Criteria for success included:
 - Improved understanding of the technology 
 - Increase in relevant insight
 
-Testing the designs in research would allow us to gauge the response, to inform the live experience.  
+Testing the designs in research would allow us to gauge the response, and inform the live experience.  
 
 ![Clear Data Pod proposition](images/watch-party-data/navigation_challenge.png)
 
 </details>
 <br>
 <details>
-<summary>Balancing the structure</summary>
+<summary>Laying the foundation</summary>
 
 ### Information gathering
-I looked at requirements for the navigation from a content and technical perspective. 
-
 I analysed the architecture of similar utility services (like password vaults and cloud storage systems). 
+
+I also looked at the requirements for the navigation from a content and technical perspective. 
 <br>
 
 ### Mapping the structure
-I mapped the content structure for the pilot's navigation to determine where a Data Pod service could belong. 
+By mapping the content structure for the navigation, I could determine where a Data Pod service could belong. 
 <br>
 
 #### Original content structure
@@ -343,12 +330,12 @@ Taking the Data Pod out of BBC Together also reduced complexity by removing a la
 </details>
 <br>
 <details>
-<summary>Ideating</summary>
+<summary>Design considerations</summary>
 
 ### Conveying importance
-The Data Pod was the focus of research objectives, but remained a utility service. And needed to remain unobtrusive to the watch party experience. 
+The Data Pod was the focus of research objectives, but needed to remain unobtrusive to the watch party experience. 
 
->The level of importance would be conveyed with the visual style and mechanics. 
+>The visual style and mechanics would convey the level of importance. 
 
 Considerations included:
 - The location for accessing the Data Pod
@@ -360,6 +347,10 @@ Considerations included:
 ![Visual hierarchy](images/watch-party-data/visual_hierarchy.png)
 
 <br>
+</details>
+<br>
+<details>
+<summary>Exploring ideas</summary>
 
 ### Information gathering
 I looked at how users currently moved between services and accounts by identifying patterns in streaming services, social media, and operating systems. 
@@ -412,12 +403,14 @@ The main concern at this point was in breaking a familiar interaction pattern.
 - For those that didn't, could we convey the ability to navigate clearly enough? 
 - As the Data Pod was a utility service, should it be lower in the visual hierarchy? _Eg. By reducing the size of the logo_.
 
->Overall, the proposed solution was well received and we decided the concept was developed enough for testing. Insights from this would help to improve the designs going forward.
+>Overall, the proposed solution was well received and we decided the concept was developed enough for testing. 
+
+Insights from research would help to improve the designs going forward.
 
 </details>
 <br>
 <details>
-<summary>Changing the name</summary>
+<summary>Re-visiting the name</summary>
 
 ### Setting expectations
 I noticed the name of the pilot, _'BBC Together'_, didn't align with the new balanced navigation and copy.
@@ -448,18 +441,12 @@ We decided to test the new name in upcoming research.
 <details>
 <summary>Testing the changes</summary>
 
-### Success criteria
-Success criteria for the name, navigation and copy during the set-up process included:
-- Increased awareness and usge of the Data Pod
-- Undeterred by the Data Pod
-- Navigating between BBC Together and the Data Pod without issue
-
-<br>
-
 ### Research outcomes
->The outcomes from moderated research indicated the new copy, name and navigation improved awareness and understanding. But there were opportunities for improvement. 
+At this point we had changed the copy, name of the pilot, and navigation.
 
-In the navigation, the ability to interact with the logo was unclear. And although there was some improvement, the Data Pod set-up process still caused some friction.
+>The outcomes from moderated research indicated an improved awareness and understanding of the Data Pod. But there were opportunities for improvement. 
+
+In the navigation, the ability to interact with the logo was unclear. And although there was some improvement, the Data Pod set-up process was still deterring participants.
 <br>
 
 ### Next steps
@@ -467,30 +454,18 @@ We re-designed the set-up process with a content-led approach. And for the navig
 
 </details>
 <br>
+<br>
+
+## 🎬 Mission 01 returns: Rapid iteration
 <details>
 <summary>Improving the navigation</summary> 
 
-### Clarifying the ability to navigate
+### Clarifying the ability to interact
 To improve the navigation, I explored several interaction patterns and states including a switch, buttons, and tabs. 
 <br>
 
-#### Switch
-![Switch](images/watch-party-data/nav_switch.png)
-
-<br>
-
-#### Underline
-![Underlined](images/watch-party-data/nav_underline.png)
-
-<br>
-
-#### Buttons
-![Buttons](images/watch-party-data/nav_buttons.png)
-
-<br>
-
-#### Tabs
-![Tabs](images/watch-party-data/nav_tabs.png)
+#### Navigation options
+![Navigation options](images/watch-party-data/navigation_options.png)
 
 <br>
 
@@ -500,19 +475,18 @@ All the options I presented to the team were seen as an improvement, but the tab
 
 <br>
 
-#### Tabs on the home screen
-
-![Tabs on home screen](images/watch-party-data/changed_home.png)
+#### Live version
+![Live version of the navigation](images/watch-party-data/changed_home.png)
 
 <br>
 
 </details>
 <br>
 <details>
-<summary>Improving the set-up process</summary> 
+<summary>Restructuring the set-up process</summary> 
 
 ### Defining the structure
-We analysed user research insights and stakeholder feedback to determine the structure and content for the set-up process. 
+The User Researcher and Content Designer analysed insights and stakeholder feedback to determine the structure and content for the set-up process. 
 
 >For the visual design, I considered two potential approaches:
 >1. Giving both services equal weight
@@ -531,10 +505,14 @@ I collated sketches and mock-ups as a starting point.
 
 <br>
 
-The content and structure aligned with the second approach. 
+</details>
 <br>
+<details>
+<summary>Branding the set-up screens</summary> 
 
-### Outcome
+### Prioritising BBC Together
+Analysis outcomes suggested prioritising BBC Together. 
+
 I created BBC Together branded screens with Data Pod branding where appropriate. 
 
 >The changes reduced complexity and prevented the Data Pod from overwhelming the set-up process. 
@@ -553,10 +531,15 @@ I created BBC Together branded screens with Data Pod branding where appropriate.
 
 In the initial designs, information about the Data Pod overwhelmed the introduction. 
 
-Following the changes however, there was a lack of information about the Pod. 
+Following the changes, BBC Together was more prominent, but there was a lack of information about the Pod. 
 
 The plan was to create a discrete explainer module to inform users about the Data Pod. 
 <br>
+
+</details>
+<br>
+<details>
+<summary>Live version of the set-up process</summary> 
 
 ### The final set-up experience
 
@@ -609,7 +592,7 @@ Thankfully, many of the structural challenges were unique to this pilot and the 
 <br>
 <br>
 
-## ✉️ Challenge: Making contact
+## 🎟 Mission 02: Making contact
 
 <details>
 <summary>The problem</summary>
@@ -620,7 +603,7 @@ During a watch party, the user was either a host or invitee.
 >There were two problems:
 >
 >1. The invitation screen offered the ability to send or receive contact requests, which wasn't technically possible.
->2. The invitation screen was also identical to the waiting area.
+>2. The invitation screen was identical to the waiting area.
 
 <br>
 
@@ -682,16 +665,6 @@ I considered using a simple, quick animation to highlight the moment without dis
 <br>
 
 ![Before and after invitation](images/watch-party-data/invitation.png)
-
-<br>
-
-### Outcome
->The invitation screen was well received and pointed out by several research participants as a positive part of the experience. 
-
-As the pilot developed, the screen was simplified and adapted to align with the rest of the experience.  
-
-#### Final invitation design
-![Final invitation](images/watch-party-data/final_invitation.png)
 
 </details>
 <br>
@@ -786,9 +759,18 @@ After removing the waiting area, we had two options for aligning the host and in
 <details>
 <summary>Testing the changes</summary>
 
-### Research outcomes
+### The invitation
+>The invitation screen was well received and pointed out by several research participants as a positive part of the experience. 
 
-After presenting the two options to the team, we decided to test the option without a waiting area in research.
+As the pilot developed, the screen was simplified and adapted to align with the rest of the experience.  
+
+#### Live version
+![Final invitation](images/watch-party-data/final_invitation.png)
+
+<br>
+
+### The waiting area
+After presenting options with and without a waiting area to the team, we decided to test the option without a waiting area in research.
 <br>
 
 >With some adjustments, the approach was used in the final pilot.
@@ -797,7 +779,7 @@ After presenting the two options to the team, we decided to test the option with
 <br>
 <br>
 
-## 🎨 Challenge: Battle of the brands
+## 🎨 Mission 03: Battle of the brands
 <details>
 <summary>The problem</summary>
 
@@ -898,7 +880,7 @@ The illustrations, bullet points, spacing and layout helped to make the informat
 <br>
 
 <details>
-<summary>Applying brand identities</summary>
+<summary>Applying the brands</summary>
 
 ### Consistent branding
 The original designs used elements of the global BBC brand, which was appropriate for certain parts of the experience, such as signing in. For other parts, it was potentially confusing. 
@@ -936,28 +918,6 @@ I then simplified the screen for the build in _'Version 2'_. At this point, the 
 
 <br>
 
-### BBC Together
-I made some changes to how the BBC Together brand was applied.
-
->I adapted the backgrounds to make them more consistent and use more of the space available. 
-
-<br>
-
-![Original and adapted modal styles](images/watch-party-data/adapted_modal_style.png)
-
-<br>
-
-I also introduced the BBC Together identity to the set-up process.
-
->The screen was simple and brief, so user's could move on with the experience.
-
-The intention was to bring in BBC Together branding, with focus on the content.
-<br>
-
-![BBC Together branded intro](images/watch-party-data/together_branded_intro.png)
-
-<br>
-
 </details>
 <br>
 
@@ -992,24 +952,10 @@ I created four options and we conducted guerilla testing to refine them.
 <br>
 
 </details>
-
-<br>
-
-<details>
-<summary>Outcome</summary>
-
-### The Data Pod
-After developing an identity for the Data Pod, it became more identifiable for evaluation.
-<br>
-
-### BBC Together
-During early research, some participants considered the branding slightly dated. But we began to receive many positive comments following changes to the brand and visual design.   
-
-</details>
 <br>
 <br>
 
-## ⚙️ Iterating
+## 🎥 Production processes
 
 <details>
 <summary>Research</summary>
@@ -1056,7 +1002,7 @@ We began developing a process for signing designs off, including:
 <br>
 
 #### Multiple workstreams
-We had a single file for several workstreams, (including research stimulus), which caused some confusion for Engineers. 
+We had a single file for several workstreams, (including research stimulus), which caused some confusion for the team. 
 
 I spent some time labelling designs and prototypes, which prevented some confusion. 
 
@@ -1072,7 +1018,7 @@ Some designs didn't make the final experience, but priorities were met and the p
 <br>
 <br>
 
-## 🎀 Wrapping up
+## 🍿 Premiere
 
 <details>
 <summary>Result</summary>
