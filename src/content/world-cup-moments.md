@@ -8,7 +8,7 @@ coverIcon: "images/football.svg"
 iconLight: "images/football-light.svg"
 ---
 
-Navigable highlights, match statistics, and line-ups, while streaming live World Cup matches. 
+Navigable key moments, match statistics, and line-ups, while streaming live World Cup matches. 
 <br>
 
 ![GATSBY_EMPTY_ALT](images/world-cup-moments/world_cup_moments_cover.png)
@@ -401,9 +401,7 @@ To gather feedback from football fans, I set up four 1:1 sessions.
 
 >I asked participants to imagine they were about to stream a football match on BBC Sport. And prompted them for their thoughts as they went through the prototypes. 
 
-The feedback helped to refine the interaction. I removed the pagination on the information panels, as the preference was unanimously to scroll. And made the ability to scroll clearer. 
-
-The feedback also gave us more confidence in the iconography, text changes, and designs for smaller screens (which couldn't display the full experience).
+The feedback helped to refine the interaction and gave us more confidence in the iconography, text changes, and designs for smaller screens (which couldn't display the full experience).
 
 >In addition to testing the UI and interaction design, I also asked participants which key moments and stats they expected to find. 
 
@@ -526,7 +524,7 @@ Engineers in BBC Sport were on hand to monitor all products and tools, including
 ### Quantitative
 The features had over 950,000 unique users (an average of 47,000 users per game), and 30% returned to use the features again. 
 
->Over 16,000 users rated the experience, with an average of 4.1 stars.
+>Over 16,000 users rated the experience, with an average of 4.1 stars (out of 5).
 
 <br>
 

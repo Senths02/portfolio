@@ -8,7 +8,7 @@ coverIcon: "images/group.svg"
 iconLight: "images/group-light.svg"
 ---
 
-Watch party users could explore a new way of safeguarding and managing the data they collect along the way.
+A new way for watch party users to safeguard and manage the data they collect along the way.
 <br>
 
 ![GATSBY_EMPTY_ALT](images/watch-party-data/together_data_pod_hero_hoz.png)
@@ -675,6 +675,7 @@ I considered using a simple, quick animation to highlight the moment without dis
 While adding a waiting area to the invitee journey, I ran into potential friction.
 
 >What would happen when the invitee was in the waiting area and the host started the show?
+>
 >There were two options: 
 >
 >1. The invitee could be automatically taken to the streaming area
@@ -723,7 +724,7 @@ After adding a waiting area to the invitee journey, the host and invitee experie
 
 ### Straight to the party
 
->For the alternative experience (without a waiting area), I moved all the functionality in the waiting area to the side panel in the media player. 
+>For the alternative journey (without a waiting area), I moved all the functionality in the waiting area to the side panel in the media player. 
 
 Without a waiting area, users would go directly to the streaming area.
 
@@ -746,7 +747,7 @@ I added programme information and altered the styling of the modal for consisten
 <br>
 
 #### A shared experience
-After removing the waiting area, we had two options for aligning the host and invitee journeys - one with a waiting area and one without.
+After removing the waiting area, we had a second option for aligning the host and invitee journeys.
 <br>
 
 ![Aligned journeys without waiting area](images/watch-party-data/journey_without_waiting_area.png)
@@ -757,7 +758,7 @@ After removing the waiting area, we had two options for aligning the host and in
 <br>
 
 <details>
-<summary>Testing the changes</summary>
+<summary>Outcome</summary>
 
 ### The invitation
 >The invitation screen was well received and pointed out by several research participants as a positive part of the experience. 
@@ -765,15 +766,19 @@ After removing the waiting area, we had two options for aligning the host and in
 As the pilot developed, the screen was simplified and adapted to align with the rest of the experience.  
 
 #### Live version
-![Final invitation](images/watch-party-data/final_invitation.png)
+![Live version of invitation](images/watch-party-data/final_invitation.png)
 
 <br>
 
 ### The waiting area
-After presenting options with and without a waiting area to the team, we decided to test the option without a waiting area in research.
+I presented the two options (with and without a waiting area) to the team. 
+
+>We decided to test the option without a waiting area in research. And with some adjustments, the approach was used in the final pilot.
+
 <br>
 
->With some adjustments, the approach was used in the final pilot.
+#### Live version
+![Live version of journey](images/watch-party-data/live_journey_no_waiting.png)
 
 </details>
 <br>
@@ -856,7 +861,7 @@ After concerns were raised around the [stereotypical use of the colour blue with
 
 <br>
 
->After testing differnt colours for sufficient text contrast, I suggested using the yellow as a highlight colour. 
+>After testing different colours for sufficient text contrast, I suggested using the yellow as a highlight colour. 
 
 The consistent use of colour provided some familiarity for the Data Pod UI and identity.
 
@@ -883,7 +888,7 @@ The illustrations, bullet points, spacing and layout helped to make the informat
 <summary>Applying the brands</summary>
 
 ### Consistent branding
-The original designs used elements of the global BBC brand, which was appropriate for certain parts of the experience, such as signing in. For other parts, it was potentially confusing. 
+The original designs used elements of the global BBC brand. The global brand was necessary for certain parts of the experience, such as signing in. For other parts, it was potentially confusing. 
 
 >I removed the global BBC brand where relevant and worked with the team to apply the appropriate branding throughout.
 
@@ -927,7 +932,7 @@ I then simplified the screen for the build in _'Version 2'_. At this point, the 
 ### Blending brands
 Although we needed to maintain separation of BBC Together and the Data Pod, the need for a single promotional image for the pilot was unavoidable. 
 
->The promo needed to convey both the watch party and Data Pod aspects. Earlier attempts had swayed in one direction. 
+>The promo needed to convey both the watch party and Data Pod aspects - but earlier attempts had swayed in one direction. 
 
 <br>
 
@@ -935,9 +940,9 @@ Although we needed to maintain separation of BBC Together and the Data Pod, the 
 
 <br>
 
->I continued to develop the image and introduce more of the BBC Together brand into the last attempt. 
+>I continued to develop the image and introduce more of the BBC Together brand. 
 
-I created four options and we conducted guerilla testing to refine them.
+I created four options, which we tested to refine.
 <br>
 
 ![Promo variations](images/watch-party-data/promo_variations.png)
